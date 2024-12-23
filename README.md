@@ -1,85 +1,99 @@
-# 👋 Hi, I'm Anjali Barge!
+# 👋 **Hello, I'm Anjali Barge**!
 
 🎓 **Third-Year Computer Engineering Undergrad**  
-🌱 **Passionate About AI, ML, Neuroscience Research & BCI Technology**  
-💻 **Future Researcher | Proficient in Python, Java, C++, C**
+🌱 Passionate about **AI**, **Machine Learning (ML)**, **Neuroscience Research**, and **BCI Technology**  
+💻 **Proficient in Python**, **Java**, **C++**, **C**  
+🔬 Future **Researcher** in **AI** and **Neuroscience**
 
 ---
 
-### 🌱 **About Me**
+## 🚀 **About Me**
 
-Welcome to my GitHub! I'm currently a **third-year computer engineering student** with a growing passion for **artificial intelligence (AI)**, **machine learning (ML)**, and **neuroscience research**. I'm actively exploring **Brain-Computer Interface (BCI)** technology and aim to contribute to groundbreaking innovations in these fields.
+I'm a **third-year Computer Engineering student** diving deep into the realms of **AI**, **ML**, and **Neuroscience Research**. Currently, I’m exploring **Brain-Computer Interface (BCI)** technology and aiming to make impactful contributions to this innovative field.
+
+My goal is to push the boundaries of **BCI** and **AI** applications that can make a real-world difference. I believe in blending **innovation with research**.
 
 ---
 
-### 🚀 **Featured Projects**  
+## 🔥 **My Projects** 
 
-#### 🖼️ **Image Classification Models**
-- Built and trained custom **CNNs** on the **CIFAR-10 dataset** using **TensorFlow** and **Keras**.
-- Enhanced performance with **transfer learning** using **MobileNetV2** for **ImageNet classification**.
-- **Deployed the models** using **Streamlit**, enabling users to upload images and get predictions interactively.  
+### 🖼️ **1. Image Classification Models**
+- **Description**: Developed and trained **custom CNN models** on **CIFAR-10** dataset using **TensorFlow** and **Keras**. 
+- Applied **transfer learning** using **MobileNetV2** for **ImageNet classification**.
+- **Deployed** using **Streamlit**, enabling image uploads for real-time predictions.  
 - **Tech Stack**: Python, TensorFlow, Keras, Streamlit  
-[🔗 Explore Repository](https://github.com/AB2511/AnjaliBarge-Aicte-Image-Classificatio-ML-Model)
+[🔗 Explore Repository](https://github.com/AB2511/AnjaliBarge-Aicte-Image-Classificatio-ML-Model)  
 
----
-
-#### 📄 **Document Extraction from PDFs**
-- Developed a Python program to extract and structure text from **PDFs**, organizing content into headers and list items.
-- Leveraged **PyMuPDF** for text parsing and **JSON** for structured output.
-- Designed for seamless integration, with **Google Colab** support for easy file sharing and processing.  
+### 📄 **2. Document Extraction from PDFs**
+- **Description**: Created a Python program to **extract and structure text** from **PDF files** into **headers** and **list items**.
+- Utilized **PyMuPDF** for parsing and **JSON** for structured data.  
+- Designed for **Google Colab** integration for seamless sharing and file processing.  
 - **Tech Stack**: Python, PyMuPDF, JSON, Google Colab  
 [🔗 Explore Repository](https://github.com/AB2511/Document-Extraction-from-PDFs)
 
----
-
-#### ❓ **Personalized Quiz Platform** *(Group Project)*
-- Developed as part of a team, this **interactive quiz application** allows users to **register, login**, and play customizable quizzes on various topics.
-- Contributed to the **backend development** using **Java**, **Servlets**, and **MySQL**, focusing on **user authentication**, **question fetching**, and database integration.
-- Collaborated with team members on the **frontend** using **HTML**, **CSS**, and **JavaScript** to create an intuitive user experience.
-- The application fetches real-time questions from an API, ensuring a dynamic and engaging experience.
+### ❓ **3. Personalized Quiz Platform** *(Group Project)*
+- **Description**: A web-based **interactive quiz platform** where users can **register**, **login**, and play customizable quizzes. 
+- Worked on the **backend** with **Java**, **Servlets**, and **MySQL** for **user authentication**, **question retrieval**, and database management.
+- The quiz is dynamic, with questions fetched from a live API, allowing for a diverse experience.  
 - **Tech Stack**: Java, HTML, CSS, JavaScript, Servlets, MySQL  
 [🔗 Explore Repository](https://github.com/AB2511/infinitryout)
 
 ---
 
-### 📈 **GitHub Stats**
+## 📈 **GitHub Stats & Top Languages**
 
+#### GitHub Stats:
 ![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AB2511&show_icons=true&theme=radical&count_private=true&hide_title=true)
 
+#### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AB2511&layout=compact&theme=radical)
 
 ---
 
-### 🤝 **Connect With Me**
+## 🧑‍💻 **Tech Stack & Skills**
 
-- 📧 Email: [bargeanjali650@example.com](mailto:bargeanjali650@example.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anjali-barge)
-- 🐦 [Twitter](https://twitter.com/yourusername) *(Optional)*
+### **Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+### **Frameworks & Libraries:**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B6E?style=for-the-badge&logo=streamlit&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 🔥 **My Goals**
-
-- Pursuing research in **AI/ML** and **Neuroscience**.  
-- Building innovative tools and applications that merge **technology** with **human cognition**.  
-- Contributing to the advancement of **BCI technology** to make life-changing impacts.
-
----
-
-### 📚 **Skills & Technologies**
-
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### **Other Tools:**
+![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
 ---
 
-### 🚧 **Wanna Collaborate?**
+## 🌍 **Connect With Me**
 
-I'm always open to collaboration, whether it's for research, development, or innovation in **AI**, **ML**, or **BCI**. Feel free to reach out, and let’s create something impactful!  
-📫 You can reach me at [bargeanjali650@example.com](mailto:bargeanjali650@example.com).
+Feel free to reach out if you are interested in collaborating or just want to chat about AI, ML, and BCI!  
+📧 **Email**: [bargeanjali650@example.com](mailto:bargeanjali650@example.com)  
+🔗 **LinkedIn**: [Anjali Barge](https://www.linkedin.com/in/anjali-barge)  
+🔗 **Kaggle**: [Anjali Barge on Kaggle](https://www.kaggle.com/anjalibarge2511)  
+🔗 **HackerRank**: [Anjali Barge on HackerRank](https://www.hackerrank.com/profile/AnjaliBarge25)
 
 ---
 
+## 🧠 **Current Focus Areas**
+- 🔬 Researching **AI/ML** techniques for **neuroscience** and **BCI** applications.  
+- 🚀 Working on **AI-driven healthcare** solutions and **Neuroscience** projects.  
+- 💡 Exploring new advancements in **AI** and how they can integrate with **human cognition**.
+
+---
+
+## 🎯 **My Future Goals**
+- Pushing the boundaries of **BCI** and **AI** technologies.  
+- Contributing to research that merges **artificial intelligence** with **neuroscience**.  
+- Advancing the field of **Brain-Computer Interfaces** to bridge the gap between human and machine.
+
+---
+
+## 🌟 **Let’s Collaborate!**
+I’m always open to **collaboration** in **AI**, **Machine Learning** and **BCI**. If you have any ideas or want to work together, don’t hesitate to reach out!
+
+---
