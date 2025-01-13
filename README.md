@@ -38,6 +38,17 @@ My goal is to push the boundaries of **BCI** and **AI** applications that can ma
 - **Tech Stack**: Java, HTML, CSS, JavaScript, Servlets, MySQL  
 [🔗 Explore Repository](https://github.com/AB2511/infinitryout)
 
+### 🎥 **4. Movie Recommendation System**
+- **Description**: Built a **Movie Recommendation System** combining **Collaborative Filtering** (SVD) and **Content-Based Filtering** to suggest movies to users. 
+- Trained the model on the **MovieLens 20M Dataset** and provided personalized movie recommendations.
+- Implemented **rating prediction**, **top-N movie suggestions**, and **model persistence** using Python.
+- **Key Features**:
+  - Predict ratings for user-movie pairs.
+  - Recommend top 5 movies for any user.
+  - Save the trained model for reuse with **Pickle**.
+- **Tech Stack**: Python, Surprise, Scikit-learn, Pandas, Numpy, Matplotlib  
+[🔗 Explore Repository](https://github.com/AB2511/Movie-Recommendation-System)
+
 ---
 
 ## 📈 **GitHub Stats & Top Languages**
