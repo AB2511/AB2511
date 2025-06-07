@@ -90,7 +90,7 @@ My goal is to push the boundaries of **BCI** and **AI** applications that can ma
 ## 🌍 **Connect With Me**
 
 Feel free to reach out if you are interested in collaborating or just want to chat about AI, ML, and BCI!  
-📧 **Email**: [bargeanjali650@example.com](mailto:bargeanjali650@example.com)  
+📧 **Email**: [bargeanjali650@gmail.com](mailto:bargeanjali650@gmail.com)  
 🔗 **LinkedIn**: [Anjali Barge](https://www.linkedin.com/in/anjali-barge)  
 🔗 **Kaggle**: [Anjali Barge on Kaggle](https://www.kaggle.com/anjalibarge2511)  
 🔗 **HackerRank**: [Anjali Barge on HackerRank](https://www.hackerrank.com/profile/AnjaliBarge25)
