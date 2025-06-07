@@ -1,6 +1,6 @@
 # 👋 **Hello, I'm Anjali Barge**!
 
-🎓 **Third-Year Computer Engineering Undergrad**  
+🎓 **Final-Year Computer Engineering Undergrad**  
 🌱 Passionate about **AI**, **Machine Learning (ML)**, **Neuroscience Research**, and **BCI Technology**  
 💻 **Proficient in Python**, **Java**, **C++**, **C**  
 🔬 Future **Researcher** in **AI** and **Neuroscience**
