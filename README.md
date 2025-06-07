@@ -9,7 +9,7 @@
 
 ## 🚀 **About Me**
 
-I'm a **third-year Computer Engineering student** diving deep into the realms of **AI**, **ML**, and **Neuroscience Research**. Currently, I’m exploring **Brain-Computer Interface (BCI)** technology and aiming to make impactful contributions to this innovative field.
+I'm a **Final-year Computer Engineering student** diving deep into the realms of **AI**, **ML**, and **Neuroscience Research**. Currently, I’m exploring **Brain-Computer Interface (BCI)** technology and aiming to make impactful contributions to this innovative field.
 
 My goal is to push the boundaries of **BCI** and **AI** applications that can make a real-world difference. I believe in blending **innovation with research**.
 
