@@ -17,37 +17,44 @@ My goal is to push the boundaries of **BCI** and **AI** applications that can ma
 
 ## 🔥 **My Projects** 
 
-### 🖼️ **1. Image Classification Models**
-- **Description**: Developed and trained **custom CNN models** on **CIFAR-10** dataset using **TensorFlow** and **Keras**. 
-- Applied **transfer learning** using **MobileNetV2** for **ImageNet classification**.
-- **Deployed** using **Streamlit**, enabling image uploads for real-time predictions.  
-- **Tech Stack**: Python, TensorFlow, Keras, Streamlit  
-[🔗 Explore Repository](https://github.com/AB2511/AnjaliBarge-Aicte-Image-Classificatio-ML-Model)  
+### 🧠 **1. EEG-Based Cognitive State Recognition Using P300**
+- **Description**: Developed a pipeline for classifying EEG signals using the P300 ERP to distinguish between standard and oddball stimuli, useful for cognitive state recognition.
+- Achieved **93% accuracy** using a **Voting Classifier (SVM + Random Forest)**.
+- Applied **ICA for artifact removal**, **PSD and wavelet-based feature extraction**, and **SMOTE** for data balancing.
+- **Tech Stack**: Python, MNE-Python, Scikit-learn, PyWavelets, Seaborn  
+[🔗 Explore Repository](https://github.com/AB2511/eeg-p300-classification)
 
-### 📄 **2. Document Extraction from PDFs**
-- **Description**: Created a Python program to **extract and structure text** from **PDF files** into **headers** and **list items**.
-- Utilized **PyMuPDF** for parsing and **JSON** for structured data.  
-- Designed for **Google Colab** integration for seamless sharing and file processing.  
+### 📊 **2. Mutual Fund Allocation Tracker**
+- **Description**: Analyzed allocation trends in mutual fund portfolios using data scraped from monthly reports. Calculated market value and quantity changes over time.
+- Supported user-defined fund names and date ranges.
+- Output saved as an Excel report for further analysis.
+- **Tech Stack**: Python, Pandas, Matplotlib, Regex, Glob, DateTime  
+[🔗 Explore Repository](https://github.com/AB2511/Mutual-Fund-Tracker)
+
+### 🎥 **3. Movie Recommendation System**
+- **Description**: Built a recommendation engine using **SVD-based collaborative filtering** and **content-based filtering** techniques. 
+- Trained on **MovieLens 20M dataset**, supports rating predictions and top-N recommendations.
+- Saved models for future reuse using Pickle.
+- **Tech Stack**: Python, Surprise, Scikit-learn, Pandas, Numpy, Matplotlib  
+[🔗 Explore Repository](https://github.com/AB2511/Movie-Recommendation-System)
+
+### 📄 **4. Document Extraction from PDFs**
+- **Description**: Extracts and structures text from PDFs into hierarchical headers and lists using PyMuPDF.
+- Output structured in JSON format, built for Google Colab compatibility.
 - **Tech Stack**: Python, PyMuPDF, JSON, Google Colab  
 [🔗 Explore Repository](https://github.com/AB2511/Document-Extraction-from-PDFs)
 
-### ❓ **3. Personalized Quiz Platform** *(Group Project)*
-- **Description**: A web-based **interactive quiz platform** where users can **register**, **login**, and play customizable quizzes. 
-- Worked on the **backend** with **Java**, **Servlets**, and **MySQL** for **user authentication**, **question retrieval**, and database management.
-- The quiz is dynamic, with questions fetched from a live API, allowing for a diverse experience.  
+### 🖼️ **5. Image Classification Models**
+- **Description**: Trained custom CNNs on **CIFAR-10** and applied **transfer learning** with **MobileNetV2** for image classification.
+- Deployed a **Streamlit app** for real-time image prediction.
+- **Tech Stack**: Python, TensorFlow, Keras, Streamlit  
+[🔗 Explore Repository](https://github.com/AB2511/AnjaliBarge-Aicte-Image-Classificatio-ML-Model)
+
+### ❓ **6. Personalized Quiz Platform** *(Group Project)*
+- **Description**: Web-based quiz platform supporting registration, login, and dynamic question loading from a live API.
+- Focused on backend dev using **Java Servlets** and **MySQL**.
 - **Tech Stack**: Java, HTML, CSS, JavaScript, Servlets, MySQL  
 [🔗 Explore Repository](https://github.com/AB2511/infinitryout)
-
-### 🎥 **4. Movie Recommendation System**
-- **Description**: Built a **Movie Recommendation System** combining **Collaborative Filtering** (SVD) and **Content-Based Filtering** to suggest movies to users. 
-- Trained the model on the **MovieLens 20M Dataset** and provided personalized movie recommendations.
-- Implemented **rating prediction**, **top-N movie suggestions**, and **model persistence** using Python.
-- **Key Features**:
-  - Predict ratings for user-movie pairs.
-  - Recommend top 5 movies for any user.
-  - Save the trained model for reuse with **Pickle**.
-- **Tech Stack**: Python, Surprise, Scikit-learn, Pandas, Numpy, Matplotlib  
-[🔗 Explore Repository](https://github.com/AB2511/Movie-Recommendation-System)
 
 ---
 
