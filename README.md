@@ -2,7 +2,7 @@
 
 🎓 **Final-Year Computer Engineering Undergrad**  
 🌱 Passionate about **AI**, **Machine Learning (ML)**, **Neuroscience Research**, and **BCI Technology**  
-💻 **Proficient in Python**, **Java**, **C++**, **C**  
+💻 **Proficient in Python**, **Java** 
 🔬 Future **Researcher** in **AI** and **Neuroscience**
 
 ---
