@@ -62,10 +62,7 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
 ---
 
 ## 🎨 Creative Projects
-<div style="transition: transform 0.3s ease-in-out;">
-  <style>
-    .kalavani:hover { transform: scale(1.02); background-color: #2a2a2a; }
-  </style>
+<div 
   <table>
     <tr class="kalavani">
       <td><b>KalaVaniStudio</b></td>
