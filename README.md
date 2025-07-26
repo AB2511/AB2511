@@ -1,3 +1,139 @@
+Skip to content
+Navigation Menu
+AB2511
+AB2511
+
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+AB2511/AB2511 is a special repository: its README.md will appear on your profile!
+AB2511
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+Selection deleted
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
 <p align="center">
   <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/ai-neuro-banner.gif" alt="AI and Neuroscience Banner" width="100%">
 </p>
@@ -17,14 +153,26 @@
 ---
 
 ## 🚀 About Me
-I'm a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. My projects blend cutting-edge tech with neuroscience to create impactful solutions. I’m seeking **internships** and **research roles** to push the boundaries of AI-driven healthcare and human cognition.
+I'm a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Summer 2025 internships** to advance AI-driven healthcare and neuroscience through innovative projects.
 
 ---
 
-## 🏆 Achievements
+## 🎥 Featured Work
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ixYYkPDoTAQ" title="AI and BCI Lab Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+A cinematic visualization of a futuristic AI and BCI lab, generated using Google Gemini Veo 3.
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 **3rd Place, Internshala Clubs Creator Contest (Dec 2024)**: Recognized for creative content creation.
 - 🥇 **AI Agent Hackathon 2025**: Built **SentimentAnalyzer** with Sneha Barge for real-time Reddit sentiment tracking.
-- 🌍 **Bolt AI Hackathon 2025**: Developed **Carbon Compass**, a carbon footprint tracker, in the world’s largest hackathon.
-- 📜 **Certifications**: TensorFlow Developer, Coursera ML Specialization (optional: add yours).
+- 🌍 **Bolt AI Hackathon 2025**: Developed **Carbon Compass**, a carbon footprint tracker.
+- 📜 **Certifications**:
+  - Gen AI Academy [](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)
+  - SQL Intermediate [](https://www.hackerrank.com/certificates/89b79b7244c9)
+  - Software Engineer Intern [](https://www.hackerrank.com/certificates/a61d034bea03)
 
 ---
 
@@ -86,3 +234,7 @@ I'm a **final-year Computer Engineering student** (graduating 2026) passionate a
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AB2511&color=blueviolet" alt="Profile Views">
 </p>
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing AB2511/README.md at main · AB2511/AB2511
