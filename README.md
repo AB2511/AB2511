@@ -26,9 +26,9 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
 - 🥇 **AI Agent Hackathon 2024**: Built **SentimentAnalyzer** with Sneha Barge for real-time Reddit sentiment tracking.
 - 🌍 **Bolt AI Hackathon 2024**: Developed **Carbon Compass**, a carbon footprint tracker.
 - 📜 **Certifications**:
-  - Gen AI Academy [](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)
-  - SQL Intermediate [](https://www.hackerrank.com/certificates/89b79b7244c9)
-  - Software Engineer Intern [](https://www.hackerrank.com/certificates/a61d034bea03)
+  - Gen AI Academy [Hack2Skill](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)
+  - SQL Intermediate [HackerRank](https://www.hackerrank.com/certificates/89b79b7244c9)
+  - Software Engineer Intern [HackerRank](https://www.hackerrank.com/certificates/a61d034bea03)
 
 ---
 
