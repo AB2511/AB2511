@@ -64,7 +64,7 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
 ## 🎨 Creative Projects
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **KalaVaniStudio** | Creative design studio blending technology and artistry with Canva designs, AI poetry, and motivational content. 🥉 *3rd Place in Internshala Clubs Content Creation Contest* | HTML, CSS, Netlify, Canva, AI Tools | [Link](https://kalavanistudio.netlify.app/) |
+| **KalaVaniStudio** | Creative design studio blending technology and artistry with Canva designs, AI poetry, and motivational content. | HTML, CSS, Netlify, Canva, AI Tools | [Link](https://kalavanistudio.netlify.app/) |
 
 ---
 
