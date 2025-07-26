@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="path/to/custom-banner.png" alt="Anjali Barge - AI & Neuroscience Innovator" width="100%">
-</p>
-
 # 👋 Hi, I'm Anjali Barge!
 
 🎓 **Final-Year Computer Engineering Student (Graduating 2026)**  
