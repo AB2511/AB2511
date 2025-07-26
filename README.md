@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Summer 2025 internships** to advance AI-driven healthcare and neuroscience through innovative projects.
+Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Summer 2025 internships** to advance AI-driven healthcare and neuroscience through innovative solutions.
 
 ---
 
@@ -30,9 +30,9 @@ A cinematic visualization of a futuristic AI and BCI lab, generated using Google
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥇 **3rd Place, Internshala Clubs Creator Contest (Dec 2024)**: Recognized for creative content creation.
-- 🥇 **AI Agent Hackathon 2025**: Built **SentimentAnalyzer** with Sneha Barge for real-time Reddit sentiment tracking.
-- 🌍 **Bolt AI Hackathon 2025**: Developed **Carbon Compass**, a carbon footprint tracker.
+- 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)**: Recognized for innovative content creation.
+- 🥇 **AI Agent Hackathon 2024**: Built **SentimentAnalyzer** with Sneha Barge for real-time Reddit sentiment tracking.
+- 🌍 **Bolt AI Hackathon 2024**: Developed **Carbon Compass**, a carbon footprint tracker.
 - 📜 **Certifications**:
   - Gen AI Academy [](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)
   - SQL Intermediate [](https://www.hackerrank.com/certificates/89b79b7244c9)
@@ -42,14 +42,14 @@ A cinematic visualization of a futuristic AI and BCI lab, generated using Google
 
 ## 🔥 My Projects
 | Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
+|-------------|-------------|------------|-----------|
 | **NeuroSync** | EEG-based focus assistant with 94% accuracy using Random Forest | Python, MNE-Python, Scikit-learn, Streamlit | [Demo](https://neurosyncafocusassistant.streamlit.app/) |
-| **SentimentAnalyzer** | Real-time Reddit sentiment analysis for brands (AI Agent Hackathon) | Google Sheets, Zapier, Gemini API, Google Apps Script | [Demo](https://script.google.com/macros/s/AKfycbyhtEzPh_q-tQOGnuNQfGSoTHQzWwH_Q3nqwFjP7_p4DSOkPZbeEegTRftT6XbY_bI_XQ/exec) |
+| **SentimentAnalyzer** | Real-time Reddit sentiment analysis for brands (AI Agent Hackathon) | Google Sheets, Gemini API, Google Apps Script | [Demo](https://script.google.com/macros/s/AKfycbyhtEzPhQOGnu-tQnuFtQzWwgH2nqT6bY_bI_XQ/) |
 | **Carbon Compass** | Carbon footprint tracker with AI suggestions (Bolt AI Hackathon) | React, TypeScript, Supabase, Tailwind CSS | [Demo](https://carboncompassapp.netlify.app/) |
-| **EEG P300 Classification** | Classifies P300 ERP signals with 93% accuracy using Voting Classifier | Python, MNE-Python, Scikit-learn, PyWavelets | [Repo](https://github.com/AB2511/eeg-p300-classification) |
-| **Mutual Fund Tracker** | Analyzes mutual fund portfolio trends with Excel output | Python, Pandas, Matplotlib, Regex | [Repo](https://github.com/AB2511/Mutual-Fund-Tracker) |
-| **Movie Recommender** | SVD-based movie recommendation system using MovieLens 20M | Python, Surprise, Scikit-learn, Pandas | [Repo](https://github.com/AB2511/Movie-Recommendation-System) |
-| **PDF Document Extraction** | Extracts structured text from PDFs into JSON format | Python, PyMuPDF, JSON, Google Colab | [Repo](https://github.com/AB2511/Document-Extraction-from-PDFs) |
+| **EEG P300** | Classifies P300 ERP signals with 94% accuracy using Ensemble Learning | Python, MNE-Python, Scikit-learn, PyWavelets | [Repo](https://github.com/AB2511/eeg-p300-classification) |
+| **Mutual Fund Tracking System** | Tracks and analyzes Mutual Fund portfolio performances and generates Excel reports | Python, Pandas, Matplotlib, Regex | [Repo](https://github.com/AB2511/Mutual-Fund-Tracker) |
+| **Movie Recommendation System** | SVD-based movie recommendation system using MovieLens 20M | Python, Surprise, Pandas | [Repo](https://github.com/AB2511/Movie-Recommendation-System) |
+| **PDF Document Extractor** | Extracts structured text from PDFs into JSON format | Python, PyMuPDF, JSON, Google Colab | [Repo](https://github.com/AB2511/Document-Extraction-from-PDFs) |
 | **Image Classification** | Custom CNNs and MobileNetV2 for CIFAR-10 with Streamlit app | Python, TensorFlow, Keras, Streamlit | [Repo](https://github.com/AB2511/AnjaliBarge-Aicte-Image-Classificatio-ML-Model) |
 | **Quiz Platform** | Web-based quiz platform with dynamic API question loading | Java, Servlets, MySQL, HTML, CSS | [Repo](https://github.com/AB2511/infinitryout) |
 
@@ -79,7 +79,7 @@ A cinematic visualization of a futuristic AI and BCI lab, generated using Google
 
 ## 💼 Career Goals
 - Graduating in **2026** with a B.E. in Computer Engineering.
-- Seeking **Summer 2025 internships** in AI, ML, and BCI.
+- Seeking **Internships** in AI, ML, and BCI.
 - Aiming to contribute to **AI-driven healthcare** and **neuroscience research**.
 
 ---
