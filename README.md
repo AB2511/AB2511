@@ -17,15 +17,7 @@
 ---
 
 ## 🚀 About Me
-Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Summer 2025 internships** to advance AI-driven healthcare and neuroscience through innovative solutions.
-
----
-
-## 🎥 Featured Work
-<p align="center">
-  <a href="https://youtu.be/ixYYkPDoTAQ"><img src="https://img.youtube.com/vi/ixYYkPDoTAQ/hqdefault.jpg" alt="AI and BCI Lab Visualization" width="50%"></a>
-</p>
-A cinematic visualization of a futuristic AI and BCI lab, generated using Google Gemini Veo 3.
+Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Internships** to advance AI-driven healthcare and neuroscience through innovative solutions.
 
 ---
 
@@ -79,7 +71,7 @@ A cinematic visualization of a futuristic AI and BCI lab, generated using Google
 
 ## 💼 Career Goals
 - Graduating in **2026** with a B.E. in Computer Engineering.
-- Seeking **Summer 2025 internships** in AI, ML, and BCI to apply my skills in Python, TensorFlow, and MNE-Python.
+- Seeking **Internships** in AI, ML, and BCI to apply my skills in Python, TensorFlow, and MNE-Python.
 - Aiming to contribute to **AI-driven healthcare** and **neuroscience research** through innovative BCI solutions.
 
 ---
