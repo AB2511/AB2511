@@ -90,7 +90,7 @@ A cinematic visualization of a futuristic AI and BCI lab, generated using Google
   <a href="https://www.linkedin.com/in/anjali-barge">🔗 LinkedIn</a> •
   <a href="https://www.kaggle.com/anjalibarge2511">🔍 Kaggle</a> •
   <a href="https://www.hackerrank.com/profile/AnjaliBarge25">💻 HackerRank</a> •
-  <a href="https://drive.google.com/your-resume">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1pNqW3oPdJrUjLYrIM-FhuH_S9xJ9outl/view?usp=sharing">📄 Resume</a>
 </p>
 
 ---
