@@ -58,6 +58,7 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
+
 ---
 
 ## 🎨 Creative Projects
@@ -74,6 +75,7 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
     </tr>
   </table>
 </div>
+
 ---
 
 ## 📈 GitHub Stats
