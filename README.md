@@ -98,7 +98,3 @@ A cinematic visualization of a futuristic AI and BCI lab, generated using Google
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AB2511&color=blueviolet" alt="Profile Views">
 </p>
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing AB2511/README.md at main · AB2511/AB2511
