@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Anjali Barge</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=440&lines=Final-Year+Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Brain-Computer+Interface+Innovator;Graduating+2026" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=440&lines=FFinal-Year+Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Brain-Computer+Interface+Innovator;Graduating+2026" alt="Typing SVG">
 </p>
 
 <p align="center">
