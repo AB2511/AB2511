@@ -17,53 +17,59 @@ My goal is to push the boundaries of **BCI** and **AI** applications that can ma
 
 ## 🔥 **My Projects**
 
-### 🕵️‍♀️ **1. SentimentAnalyzer** *(AI Agent Hackathon 2025)*
+### 🧠 **1. NeuroSync: A BCI-Powered Focus Assistant** 
+- **Description**: A machine learning app that classifies EEG signals as "Focused" or "Distracted" using a Random Forest model (94% accuracy) on the EEGMAT dataset. Simulates BCI input with plans for real-time hardware (Muse, NeuroSky) integration.
+- **Live Demo**: [NeuroSync App](https://neurosyncafocusassistant.streamlit.app/)
+- **Tech Stack**: Python, MNE-Python, Scikit-learn, Streamlit, NumPy, Pandas, SciPy, Joblib
+- **GitHub**: [Explore Repository](https://github.com/AB2511/NeuroSync)
+
+### 🕵️‍♀️ **2. SentimentAnalyzer** *(AI Agent Hackathon 2025)*
 - **Description**: Built with Sneha Barge, this AI tool analyzes real-time Reddit sentiments for brands, tagging tones (e.g., anger, delight) and alerting on negative trends. A creative pivot from support channels to public sentiment using a no-code stack.
 - **Live Demo**: [Web Dashboard](https://script.google.com/macros/s/AKfycbyhtEzPh_q-tQOGnuNQfGSoTHQzWwH_Q3nqwFjP7_p4DSOkPZbeEegTRftT6XbY_bI_XQ/exec)
 - **Tech Stack**: Google Sheets, Zapier, Gemini API, Notion, HTML, Google Apps Script  
 - **GitHub**: [Explore Repository](https://github.com/AB2511/SentimentAnalyzer)
 
-### 🌍 **2. Carbon Compass** *(Bolt AI Hackathon 2025)*
+### 🌍 **3. Carbon Compass** *(Bolt AI Hackathon 2025)*
 - **Description**: Built a web application to track and reduce carbon footprints, featuring a calculator, offset options, community forum, and gamified rewards. Developed using **Bolt AI** during the world’s largest hackathon in 2025.
 - Deployed on Netlify with a live demo at [carboncompassapp.netlify.app](https://carboncompassapp.netlify.app/).
 - Implemented **AI-powered suggestions** for sustainable actions using Supabase Edge Functions.
 - **Tech Stack**: React, TypeScript, Vite, Tailwind CSS, Supabase, Netlify, Bolt AI  
 - [🔗 Explore Repository](https://github.com/AB2511/CarbonCompassFinal)
 
-### 🧠 **3. EEG-Based Cognitive State Recognition Using P300**
+### 🧠 **4. EEG-Based Cognitive State Recognition Using P300**
 - **Description**: Developed a pipeline for classifying EEG signals using the P300 ERP to distinguish between standard and oddball stimuli, useful for cognitive state recognition.
 - Achieved **93% accuracy** using a **Voting Classifier (SVM + Random Forest)**.
 - Applied **ICA for artifact removal**, **PSD and wavelet-based feature extraction**, and **SMOTE** for data balancing.
 - **Tech Stack**: Python, MNE-Python, Scikit-learn, PyWavelets, Seaborn  
 - [🔗 Explore Repository](https://github.com/AB2511/eeg-p300-classification)
 
-### 📊 **4. Mutual Fund Allocation Tracker**
+### 📊 **5. Mutual Fund Allocation Tracker**
 - **Description**: Analyzed allocation trends in mutual fund portfolios using data scraped from monthly reports. Calculated market value and quantity changes over time.
 - Supported user-defined fund names and date ranges.
 - Output saved as an Excel report for further analysis.
 - **Tech Stack**: Python, Pandas, Matplotlib, Regex, Glob, DateTime  
 - [🔗 Explore Repository](https://github.com/AB2511/Mutual-Fund-Tracker)
 
-### 🎥 **5. Movie Recommendation System**
+### 🎥 **6. Movie Recommendation System**
 - **Description**: Built a recommendation engine using **SVD-based collaborative filtering** and **content-based filtering** techniques.
 - Trained on **MovieLens 20M dataset**, supports rating predictions and top-N recommendations.
 - Saved models for future reuse using Pickle.
 - **Tech Stack**: Python, Surprise, Scikit-learn, Pandas, Numpy, Matplotlib  
 - [🔗 Explore Repository](https://github.com/AB2511/Movie-Recommendation-System)
 
-### 📄 **6. Document Extraction from PDFs**
+### 📄 **7. Document Extraction from PDFs**
 - **Description**: Extracts and structures text from PDFs into hierarchical headers and lists using PyMuPDF.
 - Output structured in JSON format, built for Google Colab compatibility.
 - **Tech Stack**: Python, PyMuPDF, JSON, Google Colab  
 - [🔗 Explore Repository](https://github.com/AB2511/Document-Extraction-from-PDFs)
 
-### 🖼️ **7. Image Classification Models**
+### 🖼️ **8. Image Classification Models**
 - **Description**: Trained custom CNNs on **CIFAR-10** and applied **transfer learning** with **MobileNetV2** for image classification.
 - Deployed a **Streamlit app** for real-time image prediction.
 - **Tech Stack**: Python, TensorFlow, Keras, Streamlit  
 - [🔗 Explore Repository](https://github.com/AB2511/AnjaliBarge-Aicte-Image-Classificatio-ML-Model)
 
-### ❓ **8. Personalized Quiz Platform** *(Group Project)*
+### ❓ **9. Personalized Quiz Platform** *(Group Project)*
 - **Description**: Web-based quiz platform supporting registration, login, and dynamic question loading from a live API.
 - Focused on backend dev using **Java Servlets** and **MySQL**.
 - **Tech Stack**: Java, HTML, CSS, JavaScript, Servlets, MySQL  
