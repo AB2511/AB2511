@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Anjali Barge</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=440&lines=Final-Year+Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Brain-Computer+Interface+Innovator;Graduating+2026" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=440&lines=F+Final-Year+Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Brain-Computer+Interface+Innovator;Graduating+2026&cachebust=20250726" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
 
 ## 🎥 Featured Work
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ixYYkPDoTAQ" title="AI and BCI Lab Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <a href="https://youtu.be/ixYYkPDoTAQ"><img src="https://img.youtube.com/vi/ixYYkPDoTAQ/hqdefault.jpg" alt="AI and BCI Lab Visualization" width="50%"></a>
 </p>
 A cinematic visualization of a futuristic AI and BCI lab, generated using Google Gemini Veo 3.
 
@@ -79,8 +79,8 @@ A cinematic visualization of a futuristic AI and BCI lab, generated using Google
 
 ## 💼 Career Goals
 - Graduating in **2026** with a B.E. in Computer Engineering.
-- Seeking **Internships** in AI, ML, and BCI.
-- Aiming to contribute to **AI-driven healthcare** and **neuroscience research**.
+- Seeking **Summer 2025 internships** in AI, ML, and BCI to apply my skills in Python, TensorFlow, and MNE-Python.
+- Aiming to contribute to **AI-driven healthcare** and **neuroscience research** through innovative BCI solutions.
 
 ---
 
