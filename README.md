@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/ai-neuro-banner.gif" alt="AI and Neuroscience Banner" width="100%">
+</p>
+
 <h1 align="center">👋 Anjali Barge</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=440&lines=Final-Year+Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Brain-Computer+Interface+Innovator;Graduating+2026" alt="Typing SVG">
@@ -63,7 +67,7 @@ I'm a **final-year Computer Engineering student** (graduating 2026) passionate a
 
 ## 💼 Career Goals
 - Graduating in **2026** with a B.E. in Computer Engineering.
-- Seeking ** Internships** in AI, ML, and BCI.
+- Seeking **Summer 2025 internships** in AI, ML, and BCI.
 - Aiming to contribute to **AI-driven healthcare** and **neuroscience research**.
 
 ---
