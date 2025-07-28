@@ -17,12 +17,7 @@
 ---
 
 ## 🚀 About Me
-Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Summer 2025 internships** in AI agent development and automation, leveraging my experience in API integration (SentimentAnalyzer, MoodLift) and skills in Python, Java, and JSON to build innovative solutions for healthcare and e-commerce.
-
----
-
-## 🎨 Creative Portfolio
-Explore my creative work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), where I blend technology and artistry through Canva designs, AI-generated poetry, and motivational content. My 3rd place win in the Internshala Clubs Content Creation Contest (Dec 2024) reflects my ability to create impactful content that resonates with audiences.
+Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Internships** in AI, ML and BCI leveraging my experience in API integration (SentimentAnalyzer, MoodLift) and skills in Python, Java, and JSON to build innovative solutions for healthcare and e-commerce.
 
 ---
 
@@ -54,6 +49,11 @@ Explore my creative work at [KalaVaniStudio](https://kalavanistudio.netlify.app/
 
 ---
 
+## 🎨 Creative Portfolio
+Explore my creative work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), where I blend technology and artistry through Canva designs, AI-generated poetry, and motivational content. My 3rd place win in the Internshala Clubs Content Creation Contest (Dec 2024) reflects my ability to create impactful content that resonates with audiences.
+
+---
+
 ## 🧑‍💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -79,7 +79,7 @@ Explore my creative work at [KalaVaniStudio](https://kalavanistudio.netlify.app/
 
 ## 💼 Career Goals
 - Graduating in **2026** with a B.E. in Computer Engineering.
-- Seeking **Summer 2025 internships** in AI agent development, ML, and BCI, applying my skills in Python, Java, JSON, and API integration.
+- Seeking **Internships** in AI agent development, ML, and BCI, applying my skills in Python, Java, JSON, and API integration.
 - Aiming to contribute to **AI-driven healthcare** and **neuroscience research** through innovative solutions.
 
 ---
