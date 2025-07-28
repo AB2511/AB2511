@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Anjali Barge</h1>
 <p align="center">
-  <img src="https://typing-svg.vercel.app/api?text=Final-Year+Computer+Engineering+Student%7CAI+%26+Machine+Learning+Enthusiast%7CBrain-Computer+Interface+Innovator%7CGraduating+2026&color=00FF00&font=Fira+Code&size=20&center=true&cachebust=20250728" alt="Typing SVG">
+  <img src="https://typing-svg.vercel.app/api?text=F+Final-Year+Computer+Engineering+Student%7CAI+%26+Machine+Learning+Enthusiast%7CBrain-Computer+Interface+Innovator%7CGraduating+2026&color=00FF00&font=Fira+Code&size=20&center=true&cachebust=20250728" alt="Typing SVG">
 </p>
 
 <p align="center">
