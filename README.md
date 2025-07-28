@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/ai-neuro-banner.gif" alt="AI and Neuroscience Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/ai-agent-banner.gif" alt="AI Agent Development Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Anjali Barge</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=440&lines=F+Final-Year+Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Brain-Computer+Interface+Innovator;Graduating+2026&cachebust=20250726" alt="Typing SVG">
+  <img src="https://typing-svg.vercel.app/api?text=Final-Year+Computer+Engineering+Student%7CAI+%26+Machine+Learning+Enthusiast%7CBrain-Computer+Interface+Innovator%7CGraduating+2026&color=00FF00&font=Fira+Code&size=20&center=true&cachebust=20250728" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -17,26 +17,33 @@
 ---
 
 ## 🚀 About Me
-Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Internships** to advance AI-driven healthcare and neuroscience through innovative solutions.
+Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Summer 2025 internships** in AI agent development and automation, leveraging my experience in API integration (SentimentAnalyzer, MoodLift) and skills in Python, Java, and JSON to build innovative solutions for healthcare and e-commerce.
+
+---
+
+## 🎨 Creative Portfolio
+Explore my creative work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), where I blend technology and artistry through Canva designs, AI-generated poetry, and motivational content. My 3rd place win in the Internshala Clubs Content Creation Contest (Dec 2024) reflects my ability to create impactful content that resonates with audiences.
 
 ---
 
 ## 🏆 Achievements & Certifications
 - 🥇 **AI Agent Hackathon 2025**: Built **SentimentAnalyzer** with Sneha Barge for real-time Reddit sentiment tracking.
+- 🥈 **TiDB AgentX Hackathon 2025**: Developed **MoodLift**, a mental health companion with AI-driven mood prediction.
 - 🌍 **Bolt AI Hackathon 2025**: Developed **Carbon Compass**, a carbon footprint tracker.
-- 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)**: Recognized for innovative content creation.
+- 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)**: Recognized for innovative content creation at KalaVaniStudio.
 - 📜 **Certifications**:
-  - Gen AI Academy [Hack2Skill](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)
-  - SQL Intermediate [HackerRank](https://www.hackerrank.com/certificates/89b79b7244c9)
-  - Software Engineer Intern [HackerRank](https://www.hackerrank.com/certificates/a61d034bea03)
+  - Gen AI Academy [](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)
+  - SQL Intermediate [](https://www.hackerrank.com/certificates/89b79b7244c9)
+  - Software Engineer Intern [](https://www.hackerrank.com/certificates/a61d034bea03)
 
 ---
 
 ## 🔥 My Projects
 | Project | Description | Tech Stack | Live Demo |
 |-------------|-------------|------------|-----------|
+| **MoodLift** | AI-driven mental health companion for mood tracking, predictions, and personalized resources using TiDB Serverless and vector search | Python, Streamlit, TiDB Serverless, Transformers, Pandas, JSON | [Demo](https://moodlift.streamlit.app/) |
 | **NeuroSync** | EEG-based focus assistant with 94% accuracy using Random Forest | Python, MNE-Python, Scikit-learn, Streamlit | [Demo](https://neurosyncafocusassistant.streamlit.app/) |
-| **SentimentAnalyzer** | Real-time Reddit sentiment analysis for brands (AI Agent Hackathon) | Google Sheets, Gemini API, Google Apps Script | [Demo](https://script.google.com/macros/s/AKfycbyhtEzPhQOGnu-tQnuFtQzWwgH2nqT6bY_bI_XQ/) |
+| **SentimentAnalyzer** | Real-time Reddit sentiment analysis for brands (AI Agent Hackathon) | Google Sheets, Gemini API, Google Apps Script, JSON | [Demo](https://script.google.com/macros/s/AKfycbyhtEzPhQOGnu-tQnuFtQzWwgH2nqT6bY_bI_XQ/) |
 | **Carbon Compass** | Carbon footprint tracker with AI suggestions (Bolt AI Hackathon) | React, TypeScript, Supabase, Tailwind CSS | [Demo](https://carboncompassapp.netlify.app/) |
 | **EEG P300** | Classifies P300 ERP signals with 94% accuracy using Ensemble Learning | Python, MNE-Python, Scikit-learn, PyWavelets | [Repo](https://github.com/AB2511/eeg-p300-classification) |
 | **Mutual Fund Tracking System** | Tracks and analyzes Mutual Fund portfolio performances and generates Excel reports | Python, Pandas, Matplotlib, Regex | [Repo](https://github.com/AB2511/Mutual-Fund-Tracker) |
@@ -51,20 +58,14 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Streamlit-FF4B6E?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
 </p>
-
----
-
-## 🎨 Creative Projects
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **KalaVaniStudio** | Creative design studio blending technology and artistry with Canva designs, AI poetry, and motivational content. | HTML, CSS, Netlify, Canva, AI Tools | [Link](https://kalavanistudio.netlify.app/) |
 
 ---
 
@@ -78,8 +79,8 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
 
 ## 💼 Career Goals
 - Graduating in **2026** with a B.E. in Computer Engineering.
-- Seeking **Internships** in AI, ML, and BCI to apply my skills in Python, TensorFlow, and MNE-Python.
-- Aiming to contribute to **AI-driven healthcare** and **neuroscience research** through innovative BCI solutions.
+- Seeking **Summer 2025 internships** in AI agent development, ML, and BCI, applying my skills in Python, Java, JSON, and API integration.
+- Aiming to contribute to **AI-driven healthcare** and **neuroscience research** through innovative solutions.
 
 ---
 
@@ -89,7 +90,8 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
   <a href="https://www.linkedin.com/in/anjali-barge">🔗 LinkedIn</a> •
   <a href="https://www.kaggle.com/anjalibarge2511">🔍 Kaggle</a> •
   <a href="https://www.hackerrank.com/profile/AnjaliBarge25">💻 HackerRank</a> •
-  <a href="https://drive.google.com/file/d/1pNqW3oPdJrUjLYrIM-FhuH_S9xJ9outl/view?usp=sharing">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1pNqW3oPdJrUjLYrIM-FhuH_S9xJ9outl/view?usp=sharing">📄 Resume</a> •
+  <a href="https://kalavanistudio.netlify.app/">🎨 KalaVaniStudio</a>
 </p>
 
 ---
