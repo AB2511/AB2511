@@ -38,7 +38,7 @@ Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) 
 |-------------|-------------|------------|-----------|
 | **MoodLift** | AI-driven mental health companion for mood tracking, predictions, and personalized resources using TiDB Serverless and vector search | Python, Streamlit, TiDB Serverless, Transformers, Pandas, JSON | [Demo](https://moodlift.streamlit.app/) |
 | **NeuroSync** | EEG-based focus assistant with 94% accuracy using Random Forest | Python, MNE-Python, Scikit-learn, Streamlit | [Demo](https://neurosyncafocusassistant.streamlit.app/) |
-| **SentimentAnalyzer** | Real-time Reddit sentiment analysis for brands (AI Agent Hackathon) | Google Sheets, Gemini API, Google Apps Script, JSON | [Demo](https://script.google.com/macros/s/AKfycbyhtEzPhQOGnu-tQnuFtQzWwgH2nqT6bY_bI_XQ/) |
+| **SentimentAnalyzer** | Real-time Reddit sentiment analysis for brands (AI Agent Hackathon) | Google Sheets, Gemini API, Google Apps Script, JSON | [Demo]([https://script.google.com/macros/s/AKfycbyhtEzPhQOGnu-tQnuFtQzWwgH2nqT6bY_bI_XQ/](https://script.google.com/macros/s/AKfycbyhtEzPh_q-tQOGnuNQfGSoTHQzWwH_Q3nqwFjP7_p4DSOkPZbeEegTRftT6XbY_bI_XQ/exec) |
 | **Carbon Compass** | Carbon footprint tracker with AI suggestions (Bolt AI Hackathon) | React, TypeScript, Supabase, Tailwind CSS | [Demo](https://carboncompassapp.netlify.app/) |
 | **EEG P300** | Classifies P300 ERP signals with 94% accuracy using Ensemble Learning | Python, MNE-Python, Scikit-learn, PyWavelets | [Repo](https://github.com/AB2511/eeg-p300-classification) |
 | **Mutual Fund Tracking System** | Tracks and analyzes Mutual Fund portfolio performances and generates Excel reports | Python, Pandas, Matplotlib, Regex | [Repo](https://github.com/AB2511/Mutual-Fund-Tracker) |
