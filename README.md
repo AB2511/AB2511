@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-Anjali Barge is a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Internships** in AI, ML and BCI leveraging my experience in API integration (SentimentAnalyzer, MoodLift) and skills in Python, Java, and JSON to build innovative solutions for healthcare and e-commerce.
+I am a **final-year Computer Engineering student** (graduating 2026) passionate about **AI**, **Machine Learning**, and **Brain-Computer Interfaces (BCI)**. I’m seeking **Internships** in AI, ML and BCI leveraging my experience in API integration (SentimentAnalyzer, MoodLift) and skills in Python, Java, and JSON to build innovative solutions for healthcare and e-commerce.
 
 ---
 
