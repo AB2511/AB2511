@@ -22,9 +22,10 @@ I am a **final-year Computer Engineering student** (graduating 2026) passionate 
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥇 **TiDB AgentX Hackathon 2025**: Developed **MoodLift**, a mental health companion with AI-driven mood prediction.
-- 🥈 **AI Agent Hackathon 2025**: Built **SentimentAnalyzer** with Sneha Barge for real-time Reddit sentiment tracking.
-- 🌍 **Bolt AI Hackathon 2025**: Developed **Carbon Compass**, a carbon footprint tracker.
+- 🌟 **Kiro Hackathon 2025**: Developed **EcoMealAI**, a sustainable meal planner with carbon footprint estimates.
+- 🌟 **TiDB AgentX Hackathon 2025**: Developed **MoodLift**, a mental health companion with AI-driven mood prediction.
+- 🌟 **AI Agent Hackathon 2025**: Built **SentimentAnalyzer** with Sneha Barge for real-time Reddit sentiment tracking.
+- 🌟 **Bolt AI Hackathon 2025**: Developed **Carbon Compass**, a carbon footprint tracker.
 - 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)**: Recognized for innovative content creation at KalaVaniStudio.
 - 📜 **Certifications**:
   - Gen AI Academy [Hack2Skill](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)
