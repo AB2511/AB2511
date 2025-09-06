@@ -46,39 +46,40 @@
 <details>
 <summary>Click to expand 🔥</summary>
 
-### **EcoMealAI**
-<p align="center">
-  <a href="https://ecomealai.streamlit.app/">
-    <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/EcoMealAI-preview.gif" width="350" title="Click to view EcoMealAI Demo">
-  </a>
-</p>
+---
+
+### EcoMealAI
 Sustainable meal planner with carbon footprint estimates.  
 **Tech Stack:** Python, Streamlit, TheMealDB API, ReportLab, Kiro  
 [Demo](https://ecomealai.streamlit.app/) | [Repo](https://github.com/AB2511/EcoMealAI)
 
 ---
 
-### **MoodLift**
-<p align="center">
-  <a href="https://moodlift.streamlit.app/">
-    <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/MoodLift-preview.gif" width="350" title="Click to view MoodLift Demo">
-  </a>
-</p>
+### MoodLift
 AI-driven mental health companion.  
 **Tech Stack:** Python, Streamlit, TiDB Serverless, Transformers, Pandas, JSON  
 [Demo](https://moodlift.streamlit.app/) | [Repo](https://github.com/AB2511/MoodLift)
 
 ---
 
-### **NeuroSync**
-<p align="center">
-  <a href="https://neurosyncafocusassistant.streamlit.app/">
-    <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/NeuroSync-preview.gif" width="350" title="Click to view NeuroSync Demo">
-  </a>
-</p>
+### NeuroSync
 EEG-based focus assistant with 94% accuracy.  
 **Tech Stack:** Python, MNE-Python, Scikit-learn, Streamlit  
 [Demo](https://neurosyncafocusassistant.streamlit.app/) | [Repo](https://github.com/AB2511/NeuroSync)
+
+---
+
+### SentimentAnalyzer
+Real-time Reddit sentiment analysis for brands.  
+**Tech Stack:** Google Sheets, Gemini API, Google Apps Script, JSON  
+[Demo](https://script.google.com/macros/s/AKfycbyhtEzPh_q-tQOGnuNQfGSoTHQzWwH_Q3nqwFjP7_p4DSOkPZbeEegTRftT6XbY_bI_XQ/exec) | [Repo](https://github.com/AB2511/SentimentAnalyzer)
+
+---
+
+### EEG P300
+Classifies P300 ERP signals with 94% accuracy using ensemble learning.  
+**Tech Stack:** Python, MNE-Python, Scikit-learn, PyWavelets  
+[Repo](https://github.com/AB2511/eeg-p300-classification) 
 
 </details>
 
