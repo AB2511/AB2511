@@ -118,14 +118,24 @@ Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blendi
 </p>
 
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AB2511&theme=github_dark" alt="GitHub Stats">
+</p>
+
+<details>
+<summary>More Stats 📊</summary>
+<br>
+
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AB2511&theme=github_dark" alt="Repos per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AB2511&theme=github_dark" alt="Most Commit Language">
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AB2511&theme=github_dark" alt="GitHub Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AB2511&theme=github_dark&utcOffset=8" alt="Commit Productivity by Time">
 </p>
+
+</details>
+
 
 ---
 
