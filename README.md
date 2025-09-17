@@ -111,10 +111,20 @@ Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blendi
 
 ---
 
-## 📈 GitHub Stats & Streaks
+## 📈 GitHub Stats & Summary
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AB2511&show_icons=true&theme=dracula&count_private=true&hide_title=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AB2511&theme=dracula">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AB2511&theme=github_dark" alt="Profile Details">
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AB2511&theme=github_dark" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AB2511&theme=github_dark" alt="Most Commit Language">
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AB2511&theme=github_dark" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AB2511&theme=github_dark&utcOffset=8" alt="Commit Productivity by Time">
 </p>
 
 ---
