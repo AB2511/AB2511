@@ -42,6 +42,21 @@
 
 ---
 
+## 🌍 Open Source Contributions
+<details>
+<summary>Click to expand 🌍</summary>
+
+- Contributed **[examples: batch_asr_improved.py](https://github.com/modelscope/FunASR/pull/2675)** to [FunASR](https://github.com/modelscope/FunASR),  
+  a leading speech recognition toolkit.  
+  - Added argparse-based CLI for batch ASR  
+  - Implemented per-file error handling  
+  - Improved usability with progress reporting & output handling  
+  ✅ **Merged into official main branch**
+
+</details>
+
+---
+
 ## 🔥 Featured Projects
 <details>
 <summary>Click to expand 🔥</summary>
