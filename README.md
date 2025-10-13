@@ -63,6 +63,22 @@
 
 ---
 
+### SkimSage
+Autonomous AI study coach that reduces study-prep time and improves retention using AWS Bedrock Claude 3.5 Sonnet.  
+**Tech Stack:** Python, Streamlit, AWS Bedrock, S3, Lambda, AgentCore  
+**Features:** PDF/text ingestion, knowledge extraction, personalized study plans, adaptive quizzes, S3 analytics storage  
+[Demo](https://skimsage.streamlit.app/) | [Repo](https://github.com/AB2511/SkimSage)
+
+---
+
+### Udaan-AI
+AI-powered career guidance platform for Indian tech professionals, offering resume analysis, job matching, and mock interviews.  
+**Tech Stack:** React 18 + Vite, Node.js + Express, MongoDB, Google Vertex AI (Gemini 2.5 Flash), Tailwind CSS  
+**Features:** Skill extraction, ATS optimization, location-specific job matching, personalized learning paths  
+[Demo](https://udaan-ai.web.app/) | [Repo](https://github.com/AB2511/Udaan-AI)
+
+---
+
 ### EcoMealAI
 Sustainable meal planner with carbon footprint estimates.  
 **Tech Stack:** Python, Streamlit, TheMealDB API, ReportLab, Kiro  
@@ -94,7 +110,7 @@ Real-time Reddit sentiment analysis for brands.
 ### EEG P300
 Classifies P300 ERP signals with 94% accuracy using ensemble learning.  
 **Tech Stack:** Python, MNE-Python, Scikit-learn, PyWavelets  
-[Repo](https://github.com/AB2511/eeg-p300-classification) 
+[Repo](https://github.com/AB2511/eeg-p300-classification)
 
 </details>
 
@@ -160,7 +176,7 @@ Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blendi
   <a href="https://www.linkedin.com/in/anjali-barge">🔗 LinkedIn</a> •
   <a href="https://www.kaggle.com/anjalibarge2511">🔍 Kaggle</a> •
   <a href="https://www.hackerrank.com/profile/AnjaliBarge25">💻 HackerRank</a> •
-  <a href="https://drive.google.com/file/d/1pNqW3oPdJrUjLYrIM-FhuH_S9xJ9outl/view?usp=sharing">📄 Resume</a> •
+  <a href="https://drive.google.com/file/d/1Knfkwv6ItXBK3iR04S2fDGA3GaszPCX7/view?usp=sharing">📄 Resume</a> •
   <a href="https://kalavanistudio.netlify.app/">🎨 KalaVaniStudio</a>
 </p>
 
