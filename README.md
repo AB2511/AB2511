@@ -32,7 +32,7 @@
 <summary>Click to expand 🏆</summary>
 
 - 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)** – Innovative content creation  
-- 🌟 **Hackathon Participation**: Kiro Hackathon, TiDB AgentX Hackathon, AI Agent Hackathon, Bolt AI Hackathon  
+- 🌟 **Hackathon Participation**: AWS AI Agent Global Hackathon, Gen AI exchange Hackathon, Kiro Hackathon, TiDB AgentX Hackathon, AI Agent Hackathon, Bolt AI Hackathon  
 - 📜 **Certifications**:  
   - [Gen AI Academy, Hack2Skill](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)  
   - [SQL Intermediate, HackerRank](https://www.hackerrank.com/certificates/89b79b7244c9)  
