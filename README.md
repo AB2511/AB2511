@@ -13,9 +13,12 @@
   <a href="mailto:bargeanjali650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send me an Email"></a>
   <a href="https://www.kaggle.com/anjalibarge2511"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" title="My Kaggle Profile"></a>
   <a href="https://www.hackerrank.com/profile/AnjaliBarge25"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank Profile"></a>
+  <a href="https://anjali-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" title="My Portfolio Website"></a>
   <img src="https://img.shields.io/badge/Open%20to%20Internship-brightgreen?style=for-the-badge&labelColor=00FF7F&color=00BFFF" title="Actively seeking AI/ML/BCI internships">
   <img src="https://img.shields.io/badge/Currently%20Learning-TensorFlow%20Advanced-blue?style=for-the-badge&labelColor=1E3C72&color=2A5298" title="Learning advanced ML & BCI techniques">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Run%20Hackathon-Participant-orange?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0F2027&color=2C5364" title="Google Cloud Run Hackathon Participant">
 </p>
+
 
 ---
 
@@ -195,6 +198,7 @@ Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blendi
   <a href="https://www.linkedin.com/in/anjali-barge">🔗 LinkedIn</a> •
   <a href="https://www.kaggle.com/anjalibarge2511">🔍 Kaggle</a> •
   <a href="https://www.hackerrank.com/profile/AnjaliBarge25">💻 HackerRank</a> •
+  <a href="https://anjali-portfolio-eight.vercel.app/">🌐 Portfolio</a> •
   <a href="https://drive.google.com/file/d/1LZZKx_-qmPzKAE24rYQgH2s9aT9gNPHu/view?usp=sharing">📄 Resume</a> •
   <a href="https://kalavanistudio.netlify.app/">🎨 KalaVaniStudio</a>
 </p>
@@ -202,3 +206,4 @@ Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blendi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AB2511&color=blueviolet" alt="Profile Views">
 </p>
+
