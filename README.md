@@ -32,7 +32,15 @@
 <summary>Click to expand 🏆</summary>
 
 - 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)** – Innovative content creation  
-- 🌟 **Hackathon Participation**: AWS AI Agent Global Hackathon, Gen AI exchange Hackathon, Kiro Hackathon, TiDB AgentX Hackathon, AI Agent Hackathon, Bolt AI Hackathon  
+- 🌟 **Hackathon Participation:**
+  - Google Cloud Run Hackathon  
+  - AWS AI Agent Global Hackathon  
+  - Gen AI Exchange Hackathon  
+  - Kiro Hackathon  
+  - TiDB AgentX Hackathon  
+  - AI Agent Hackathon  
+  - Bolt AI Hackathon  
+ 
 - 📜 **Certifications**:  
   - [Gen AI Academy, Hack2Skill](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)  
   - [SQL Intermediate, HackerRank](https://www.hackerrank.com/certificates/89b79b7244c9)  
@@ -60,6 +68,17 @@
 ## 🔥 Featured Projects
 <details>
 <summary>Click to expand 🔥</summary>
+
+---
+### EcoPulse α
+AI-powered sustainability scanner built for **Google Cloud Run Hackathon** — helps users see the true environmental impact of their purchases.  
+**Tech Stack:** React 19, TypeScript, Tailwind CSS, Google Gemini API (gemini-2.5-flash), Google Cloud Run, AI Studio  
+**Features:**  
+- Multi-modal input (image, barcode, or product URL)  
+- AI-based eco-score on carbon footprint, recyclability & ethical sourcing  
+- Greener alternatives with quantifiable impact  
+- PNG eco-badge generator & PWA support  
+[Demo](https://ecopulse-1005723035457.us-west1.run.app) | [Repo](https://github.com/AB2511/ecopulse-alpha)
 
 ---
 
