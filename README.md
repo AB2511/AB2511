@@ -34,7 +34,9 @@
 <details>
 <summary>Click to expand 🏆</summary>
 
-- 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)** – Innovative content creation  
+- 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)** – Innovative content creation
+- 🏅 McKinsey Forward — Super Learner (Nov 2025)  
+  Earned the “Super Learner” title for completing 50% of the Core Skills Level in the McKinsey.org Forward Program.  
 - 🌟 **Hackathon Participation:**
   - Google Cloud Run Hackathon  
   - AWS AI Agent Global Hackathon  
