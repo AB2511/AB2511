@@ -201,7 +201,7 @@ Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blendi
   <a href="https://www.kaggle.com/anjalibarge2511">🔍 Kaggle</a> •
   <a href="https://www.hackerrank.com/profile/AnjaliBarge25">💻 HackerRank</a> •
   <a href="https://anjali-portfolio-eight.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1LZZKx_-qmPzKAE24rYQgH2s9aT9gNPHu/view?usp=sharing">📄 Resume</a> •
+  <a href="https://drive.google.com/file/d/1lQiuuKz1xxZJklclizqIOkDc-ymjW9zw/view?usp=sharing">📄 Resume</a> •
   <a href="https://kalavanistudio.netlify.app/">🎨 KalaVaniStudio</a>
 </p>
 
