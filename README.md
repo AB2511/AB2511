@@ -75,6 +75,21 @@
 <summary>Click to expand 🔥</summary>
 
 ---
+### NeuroAdaptive Interface (NAI)
+Research-grade real-time EEG cognitive state monitoring system using P300 + Deep Learning. Full BCI pipeline with EEG acquisition, EEGNet training on 20-subject ERP CORE dataset, LOSO cross-validation (AUC 0.57), and live Streamlit dashboard. Demonstrates end-to-end BCI engineering with scientific validation.
+**Tech Stack:** Python, EEGNet, Deep Learning, BCI, LSL, P300, Streamlit, Real-time.
+
+**Features:**
+- Real-time EEG streaming via LabStreamingLayer (LSL)
+- Full ERP preprocessing + P300 detection
+- EEGNet trained on 20-subject ERP CORE P3b
+- LOSO cross-subject evaluation
+- Adaptive cognitive-state classification
+- Live Streamlit dashboard for visualization
+- [Repo](https://github.com/AB2511/NAI-project)
+
+---
+
 ### EcoPulse α
 AI-powered sustainability scanner built for **Google Cloud Run Hackathon** — helps users see the true environmental impact of their purchases.  
 **Tech Stack:** React 19, TypeScript, Tailwind CSS, Google Gemini API (gemini-2.5-flash), Google Cloud Run, AI Studio  
