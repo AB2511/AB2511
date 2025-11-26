@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-I’m a final-year Computer Engineering student who enjoys building **practical AI applications**, **real-time BCI systems**, and **full-stack software products** with real deployments. I care about building technology that is **explainable, reproducible, and useful in real environments**—beyond academic prototypes.
+I’m a final-year Computer Engineering student who enjoys building **practical AI applications**, **real-time BCI systems**, and **full-stack software products** with real deployments. I care about building technology that is **explainable, reproducible, and useful in real environments** beyond academic prototypes.
 
 My work spans **neuro-AI**, **multimodal ecological intelligence**, and **cloud-backed production tools**. I’m currently looking for opportunities in **Software Engineering, AI/ML Engineering, or Research Assistant roles**.
 
@@ -73,9 +73,9 @@ Vol 6, Issue 10, Oct 2025 | pp. 3459–3464
 ## 🏆 Highlights & Recognition
 - **Completed Core Skills Level — McKinsey Forward Program (2025)**  
   *(Certificate & badge issuing soon following verification process)*
-- **3rd Place — Internshala Creators Contest (Dec 2024)**
 - **Merged open-source PR — FunASR speech recognition toolkit**
 - **Hackathon participation:** Google Cloud Run, AWS AI Agent, TiDB AgentX, GenAI Exchange & more
+- **3rd Place — Internshala Creators Contest (Dec 2024)**
 
 ---
 
