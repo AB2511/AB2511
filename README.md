@@ -1,183 +1,96 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AB2511/AB2511/main/assets/ai-agent-banner.gif" alt="AI Agent Development Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hi, I'm Anjali Barge</h1>
+<p align="center"><em>I build real-world AI & BCI systems with reproducible research and live deployments.</em></p>
+<p align="center"><strong>Final-Year B.E. Computer Engineering</strong> | Software Engineering (Java/Python) • AI/ML & BCI Research • Full-Stack Development</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.onrender.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=440&lines=F+Final-Year+Computer+Engineering+Student;AI+and+Machine+Learning+Enthusiast;Brain-Computer+Interface+Innovator;Graduating+2026&color=00FF00&font=Fira+Code&size=20&center=true&cachebust=20250728" alt="Typing SVG">
+  <a href="https://www.linkedin.com/in/anjali-barge">LinkedIn</a> •
+  <a href="mailto:bargeanjali650@gmail.com">Email</a> •
+  <a href="https://anjali-portfolio-eight.vercel.app/">Portfolio</a> •
+  <a href="https://www.kaggle.com/anjalibarge2511">Kaggle</a> •
+  <a href="https://kalavanistudio.netlify.app/">Creative Work</a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anjali-barge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect on LinkedIn"></a>
-  <a href="mailto:bargeanjali650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send me an Email"></a>
-  <a href="https://www.kaggle.com/anjalibarge2511"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" title="My Kaggle Profile"></a>
-  <a href="https://www.hackerrank.com/profile/AnjaliBarge25"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank Profile"></a>
-  <a href="https://anjali-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" title="My Portfolio Website"></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Internship-brightgreen?style=for-the-badge&labelColor=00FF7F&color=00BFFF" title="Actively seeking AI/ML/BCI internships">
-  <img src="https://img.shields.io/badge/Currently%20Learning-TensorFlow%20Advanced-blue?style=for-the-badge&labelColor=1E3C72&color=2A5298" title="Learning advanced ML & BCI techniques">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Run%20Hackathon-Participant-orange?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0F2027&color=2C5364" title="Google Cloud Run Hackathon Participant">
-</p>
-
 
 ---
 
 ## 🚀 About Me
-- 🎓 Final-Year Computer Engineering Student (Graduating 2026)  
-- 🤖 Passionate about **AI, ML & Brain-Computer Interfaces**  
-- 💻 Skilled in **Python, Java, JSON**; hands-on **API integration** (SentimentAnalyzer, MoodLift)  
-- 🌱 Seeking **Internships in AI Agent Development, ML, BCI** to build healthcare & e-commerce solutions  
+I’m a final-year Computer Engineering student who enjoys building **practical AI applications**, **real-time BCI systems**, and **full-stack software products** with real deployments. I care about building technology that is **explainable, reproducible, and useful in real environments**—beyond academic prototypes.
 
----
-
-## 🏆 Achievements & Certifications
-<details>
-<summary>Click to expand 🏆</summary>
-
-- 🥉 **3rd Place, Internshala Creators Contest (Dec 2024)** – Innovative content creation
-- 🏅 McKinsey Forward — Super Learner (Nov 2025)  
-  Earned the “Super Learner” title for completing 50% of the Core Skills Level in the McKinsey.org Forward Program.  
-- 🌟 **Hackathon Participation:**
-  - Google Cloud Run Hackathon  
-  - AWS AI Agent Global Hackathon  
-  - Gen AI Exchange Hackathon  
-  - Kiro Hackathon  
-  - TiDB AgentX Hackathon  
-  - AI Agent Hackathon  
-  - Bolt AI Hackathon  
- 
-- 📜 **Certifications**:  
-  - [Gen AI Academy, Hack2Skill](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A01928)  
-  - [SQL Intermediate, HackerRank](https://www.hackerrank.com/certificates/89b79b7244c9)  
-  - [Software Engineer Intern, HackerRank](https://www.hackerrank.com/certificates/a61d034bea03)
-
-</details>
-
----
-
-## 🌍 Open Source Contributions
-<details>
-<summary>Click to expand 🌍</summary>
-
-- Contributed **[examples: batch_asr_improved.py](https://github.com/modelscope/FunASR/pull/2675)** to [FunASR](https://github.com/modelscope/FunASR),  
-  a leading speech recognition toolkit.  
-  - Added argparse-based CLI for batch ASR  
-  - Implemented per-file error handling  
-  - Improved usability with progress reporting & output handling  
-  ✅ **Merged into official main branch**
-
-</details>
+My work spans **neuro-AI**, **multimodal ecological intelligence**, and **cloud-backed production tools**. I’m currently looking for opportunities in **Software Engineering, AI/ML Engineering, or Research Assistant roles**.
 
 ---
 
 ## 🔥 Featured Projects
+### **NeuroAdaptive Interface (NAI) — Real-time EEG Cognitive State Monitoring**
+End-to-end BCI system using EEGNet, MNE, LSL & Streamlit.  
+• LOSO AUC: ~0.57 | Within-subject: 0.85–0.90  
+• Real-time ERP processing & adaptive classification  
+🔗 **Repo:** https://github.com/AB2511/NAI-project
+
+### **EcoPulse α — Sustainability Scanner (Google Cloud Run Hackathon)**
+AI-powered environmental impact scoring via multimodal inputs (image / barcode / URL).  
+🔗 **Demo:** https://ecopulse-1005723035457.us-west1.run.app  
+🔗 **Repo:** https://github.com/AB2511/ecopulse-alpha
+
+### **SkimSage — Autonomous AI Study Coach**
+Powered by AWS Bedrock Claude 3.5 Sonnet for adaptive learning paths.  
+🔗 https://skimsage.streamlit.app/
+
+### **NeuroSync — EEG-based Focus Assistant**
+Classical ML achieving 94% accuracy on ERP signals.  
+🔗 https://github.com/AB2511/NeuroSync
+
+---
+
+## 📚 Research & Publications
 <details>
-<summary>Click to expand 🔥</summary>
+<summary><strong>Click to view papers & research work</strong></summary>
 
----
-### NeuroAdaptive Interface (NAI)
-Research-grade real-time EEG cognitive state monitoring system using P300 + Deep Learning. Full BCI pipeline with EEG acquisition, EEGNet training on 20-subject ERP CORE dataset, LOSO cross-validation (AUC 0.57), and live Streamlit dashboard. Demonstrates end-to-end BCI engineering with scientific validation.
-**Tech Stack:** Python, EEGNet, Deep Learning, BCI, LSL, P300, Streamlit, Real-time.
-
-**Features:**
-- Real-time EEG streaming via LabStreamingLayer (LSL)
-- Full ERP preprocessing + P300 detection
-- EEGNet trained on 20-subject ERP CORE P3b
-- LOSO cross-subject evaluation
-- Adaptive cognitive-state classification
-- Live Streamlit dashboard for visualization
-- [Repo](https://github.com/AB2511/NAI-project)
+### 1️⃣ **NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning**
+**Status:** Under Review — Conference  
+**Venue:** International Symposium on Data-AI Harmonies for Society  
+**Role:** Solo Author  
+📄 **PDF:** https://drive.google.com/file/d/1QYgiXbM9yWYjf_qbC70-n_4_VTKo2lXq/view?usp=sharing
 
 ---
 
-### EcoPulse α
-AI-powered sustainability scanner built for **Google Cloud Run Hackathon** — helps users see the true environmental impact of their purchases.  
-**Tech Stack:** React 19, TypeScript, Tailwind CSS, Google Gemini API (gemini-2.5-flash), Google Cloud Run, AI Studio  
-**Features:**  
-- Multi-modal input (image, barcode, or product URL)  
-- AI-based eco-score on carbon footprint, recyclability & ethical sourcing  
-- Greener alternatives with quantifiable impact  
-- PNG eco-badge generator & PWA support  
-[Demo](https://ecopulse-1005723035457.us-west1.run.app) | [Repo](https://github.com/AB2511/ecopulse-alpha)
+### 2️⃣ **Eco-Fusion AI: A Multimodal Framework for Habitat Monitoring**
+**Status:** Published — Review Paper  
+**Journal:** International Journal of Research Publication and Reviews  
+Vol 6, Issue 10, Oct 2025 | pp. 3459–3464  
+📄 **PDF:** https://drive.google.com/file/d/1Roj6O03PUIV6jQnRH-LnMnE9oYBAZOvb/view?usp=sharing
 
 ---
 
-### SkimSage
-Autonomous AI study coach that reduces study-prep time and improves retention using AWS Bedrock Claude 3.5 Sonnet.  
-**Tech Stack:** Python, Streamlit, AWS Bedrock, S3, Lambda, AgentCore  
-**Features:** PDF/text ingestion, knowledge extraction, personalized study plans, adaptive quizzes, S3 analytics storage  
-[Demo](https://skimsage.streamlit.app/) | [Repo](https://github.com/AB2511/SkimSage)
-
----
-
-### Udaan-AI
-AI-powered career guidance platform for Indian tech professionals, offering resume analysis, job matching, and mock interviews.  
-**Tech Stack:** React 18 + Vite, Node.js + Express, MongoDB, Google Vertex AI (Gemini 2.5 Flash), Tailwind CSS  
-**Features:** Skill extraction, ATS optimization, location-specific job matching, personalized learning paths  
-[Demo](https://udaan-ai.web.app/) | [Repo](https://github.com/AB2511/Udaan-AI)
-
----
-
-### EcoMealAI
-Sustainable meal planner with carbon footprint estimates.  
-**Tech Stack:** Python, Streamlit, TheMealDB API, ReportLab, Kiro  
-[Demo](https://ecomealai.streamlit.app/) | [Repo](https://github.com/AB2511/EcoMealAI)
-
----
-
-### MoodLift
-AI-driven mental health companion.  
-**Tech Stack:** Python, Streamlit, TiDB Serverless, Transformers, Pandas, JSON  
-[Demo](https://moodlift.streamlit.app/) | [Repo](https://github.com/AB2511/MoodLift)
-
----
-
-### NeuroSync
-EEG-based focus assistant with 94% accuracy.  
-**Tech Stack:** Python, MNE-Python, Scikit-learn, Streamlit  
-[Demo](https://neurosyncafocusassistant.streamlit.app/) | [Repo](https://github.com/AB2511/NeuroSync)
-
----
-
-### SentimentAnalyzer
-Real-time Reddit sentiment analysis for brands.  
-**Tech Stack:** Google Sheets, Gemini API, Google Apps Script, JSON  
-[Demo](https://script.google.com/macros/s/AKfycbyhtEzPh_q-tQOGnuNQfGSoTHQzWwH_Q3nqwFjP7_p4DSOkPZbeEegTRftT6XbY_bI_XQ/exec) | [Repo](https://github.com/AB2511/SentimentAnalyzer)
-
----
-
-### EEG P300
-Classifies P300 ERP signals with 94% accuracy using ensemble learning.  
-**Tech Stack:** Python, MNE-Python, Scikit-learn, PyWavelets  
-[Repo](https://github.com/AB2511/eeg-p300-classification)
+### 3️⃣ **EcoFusionAI: A Multimodal Framework Integrating Satellite Imagery and Bioacoustic Data for Biodiversity Risk Assessment**
+**Status:** Under Review — Conference  
+**Conference:** 8th International IEEE PuneCon 2025 (Dec 12–15)  
+📄 **PDF:** https://drive.google.com/file/d/1hDmYqUVDQETkUOSrF8MT-qXFyTUXSCQq/view?usp=sharing
 
 </details>
 
 ---
 
-## 🎨 Creative Portfolio
-<details>
-<summary>Click to expand 🎨</summary>
-
-Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blending **technology & art** via Canva designs, AI-generated poetry, and motivational content.  
-🏆 3rd place in Internshala Clubs Content Creation Contest (Dec 2024)
-
-</details>
+## 🏆 Highlights & Recognition
+- **Completed Core Skills Level — McKinsey Forward Program (2025)**  
+  *(Certificate & badge issuing soon following verification process)*
+- **3rd Place — Internshala Creators Contest (Dec 2024)**
+- **Merged open-source PR — FunASR speech recognition toolkit**
+- **Hackathon participation:** Google Cloud Run, AWS AI Agent, TiDB AgentX, GenAI Exchange & more
 
 ---
 
-## 🧑‍💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=6A11CB&color=2575FC" title="Proficient in Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=FF416C&color=FF4B2B" title="Proficient in Java">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=2C3E50&color=4CA1AF" title="Working knowledge of JSON">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF512F&color=DD2476" title="TensorFlow ML models">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B6E?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF512F&color=DD2476" title="Streamlit apps">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00C6FF&color=0072FF" title="MySQL Databases">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=00CFFF&color=0066FF" title="React JS">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&labelColor=76b852&color=8DC26F" title="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E3C72&color=2A5298" title="CSS3">
-</p>
+## 🧠 Skills & Tools
+**Languages:** Python, Java, JavaScript, C++  
+**ML / BCI:** MNE, scikit-learn, EEGNet, ERP processing, PyTorch basics  
+**Full-Stack:** React, Node.js, Express, MongoDB, Streamlit  
+**Cloud:** Google Cloud, AWS (basic), REST APIs, LSL, Git
+
+---
+
+## 🌱 Currently Working On
+- Improving cross-subject EEG generalization performance
+- Production-grade deployment for AI dashboards
+- Preparing for **Software Engineering + AI Research roles**
 
 ---
 
@@ -206,21 +119,12 @@ Explore my work at [KalaVaniStudio](https://kalavanistudio.netlify.app/), blendi
 
 </details>
 
-
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:bargeanjali650@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/anjali-barge">🔗 LinkedIn</a> •
-  <a href="https://www.kaggle.com/anjalibarge2511">🔍 Kaggle</a> •
-  <a href="https://www.hackerrank.com/profile/AnjaliBarge25">💻 HackerRank</a> •
-  <a href="https://anjali-portfolio-eight.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1lQiuuKz1xxZJklclizqIOkDc-ymjW9zw/view?usp=sharing">📄 Resume</a> •
-  <a href="https://kalavanistudio.netlify.app/">🎨 KalaVaniStudio</a>
-</p>
+## 🤝 Let’s Connect
+I enjoy meaningful collaborations & learning from strong engineering and research teams.  
+If you’re exploring **neurotechnology, AI systems, or impactful software**, let’s talk.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AB2511&color=blueviolet" alt="Profile Views">
-</p>
+📧 **Email:** bargeanjali650@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/anjali-barge
 
