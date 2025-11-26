@@ -33,7 +33,8 @@ AI-powered environmental impact scoring via multimodal inputs (image / barcode /
 
 ### **SkimSage — Autonomous AI Study Coach**
 Powered by AWS Bedrock Claude 3.5 Sonnet for adaptive learning paths.  
-🔗 https://skimsage.streamlit.app/
+🔗 **Demo:** https://skimsage.streamlit.app/  
+🔗 **Repo:** https://github.com/AB2511/SkimSage
 
 ### **NeuroSync — EEG-based Focus Assistant**
 Classical ML achieving 94% accuracy on ERP signals.  
