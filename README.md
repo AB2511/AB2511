@@ -20,11 +20,20 @@ My work spans **neuro-AI**, **multimodal ecological intelligence**, and **cloud-
 ---
 
 ## 🔥 Featured Projects
+### **MI-TSception FilterBank — Cross-Subject Motor Imagery Classification**
+Deep learning architecture for subject-independent EEG-based BCI, evaluated under Leave-One-Run-Out (54-fold) on BCI IV-2a.  
+• **Accuracy:** 74.0% ± 11.0 • **+8.6% improvement** over CSP-LDA baseline (p < 0.00001)  
+• Robust generalization: **49 / 54 runs > 60% accuracy**
+
+🔗 **Repo:** https://github.com/AB2511/MI-TSception-FilterBank  
+📄 **Paper:** Under Review — *AI for Education, Health & Societal Wellbeing*
+
 ### **NeuroAdaptive Interface (NAI) — Real-time EEG Cognitive State Monitoring**
 End-to-end BCI system using EEGNet, MNE, LSL & Streamlit.  
 • LOSO AUC: ~0.57 | Within-subject: 0.85–0.90  
 • Real-time ERP processing & adaptive classification  
 🔗 **Repo:** https://github.com/AB2511/NAI-project
+📄 **Paper:** Under Review — *AI for Education, Health & Societal Wellbeing*
 
 ### **EcoPulse α — Sustainability Scanner (Google Cloud Run Hackathon)**
 AI-powered environmental impact scoring via multimodal inputs (image / barcode / URL).  
