@@ -52,18 +52,34 @@ Classical ML achieving 94% accuracy on ERP signals.
 ---
 
 ## 📚 Research & Publications
+*Research without rejection is not research — it’s luck.*
+
 <details>
 <summary><strong>Click to view papers & research work</strong></summary>
 
-### 1️⃣ **NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning**
+### 1️⃣ **Cross-Subject Motor Imagery Classification Using TSception FilterBank Under Leave-One-Run-Out Evaluation**
+**Status:** Under Review — Conference Submission (Paper ID: 66, Submitted Dec 2025)  
+**Venue:** International Symposium on Data-AI Harmonies for Society | Track: AI for Education, Health & Societal Wellbeing  
+**Role:** Solo Author  
+📄 **PDF:** https://drive.google.com/file/d/1bUuvV41tycN5v2zorc4X1s-YXrXOvPV2/view?usp=sharing  
+🔬 **Highlights:**  
+- 54-fold LORO cross-subject evaluation (9 subjects × 6 runs)  
+- TSception FilterBank achieves **74.0% ± 11.0%** accuracy  
+- **+8.6%** improvement over CSP-LDA baseline (p < 0.00001)  
+- **49/54 (90.7%)** runs exceed 60% accuracy  
+- Reproducible PyTorch pipeline with multi-GPU support  
+
+**Keywords:** Motor Imagery, TSception, EEG, BCI, Deep Learning, Pytorch, LORO, Cross-Subject Generalization
+
+### 2️⃣ **NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning**
 **Status:** Under Review — Conference  
-**Venue:** International Symposium on Data-AI Harmonies for Society  
+**Venue:** International Symposium on Data-AI Harmonies for Society | Track: AI for Education, Health & Societal Wellbeing  
 **Role:** Solo Author  
 📄 **PDF:** https://drive.google.com/file/d/1QYgiXbM9yWYjf_qbC70-n_4_VTKo2lXq/view?usp=sharing
 
 ---
 
-### 2️⃣ **Eco-Fusion AI: A Multimodal Framework for Habitat Monitoring**
+### 3️⃣ **Eco-Fusion AI: A Multimodal Framework for Habitat Monitoring**
 **Status:** Published — Review Paper  
 **Journal:** International Journal of Research Publication and Reviews  
 Vol 6, Issue 10, Oct 2025 | pp. 3459–3464  
@@ -71,9 +87,13 @@ Vol 6, Issue 10, Oct 2025 | pp. 3459–3464
 
 ---
 
-### 3️⃣ **EcoFusionAI: A Multimodal Framework Integrating Satellite Imagery and Bioacoustic Data for Biodiversity Risk Assessment**
-**Status:** Under Review — Conference  
-**Conference:** 8th International IEEE PuneCon 2025 (Dec 12–15)  
+### 4️⃣ **EcoFusionAI: A Multimodal Framework Integrating Satellite Imagery and Bioacoustic Data for Biodiversity Risk Assessment**
+**Status:** Reviewed — Not Accepted (Planning Resubmission to Elsevier / Springer Venue)
+**Previous Submission:** IEEE PuneCon 2025
+
+🔍 Outcome: Paper was reviewed but not accepted due to competitive selection.  
+⚙️ Next Steps: Expanding experiments & evaluation for resubmission to a higher-impact venue.
+
 📄 **PDF:** https://drive.google.com/file/d/1hDmYqUVDQETkUOSrF8MT-qXFyTUXSCQq/view?usp=sharing
 
 </details>
