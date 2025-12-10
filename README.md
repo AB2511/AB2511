@@ -69,8 +69,6 @@ Classical ML achieving 94% accuracy on ERP signals.
 - **49/54 (90.7%)** runs exceed 60% accuracy  
 - Reproducible PyTorch pipeline with multi-GPU support  
 
-**Keywords:** Motor Imagery, TSception, EEG, BCI, Deep Learning, Pytorch, LORO, Cross-Subject Generalization
-
 ### 2️⃣ **NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning**
 **Status:** Under Review — Conference  
 **Venue:** International Symposium on Data-AI Harmonies for Society | Track: AI for Education, Health & Societal Wellbeing  
