@@ -99,17 +99,15 @@ Vol 6, Issue 10, Oct 2025 | pp. 3459–3464
 ---
 
 ## 🏆 Highlights & Recognition
-<p align="center">
-  <a href="https://www.credly.com/badges/93aLyYux4xyfi01JcIXIwg/public_url">
-    <img src="https://images.credly.com/images/cf2c1d5f-0c56-4e16-9b8f-7d1f1b3c4e8e/image.png" alt="McKinsey.org Forward Program - Core Skills Level" width="180"/>
-  </a>
-</p>
-
-- ![McKinsey Forward](https://images.credly.com/images/cf2c1d5f-0c56-4e16-9b8f-7d1f1b3c4e8e/image.png) **McKinsey.org Forward Program – Core Skills Level** (2025)  
-  → Globally recognized digital credential for problem-solving, digital skills, and mindset
+  
+- **McKinsey.org Forward Program – Core Skills Level** (2025)  
+  Globally recognized credential in problem-solving, digital skills & professional mindset
+- **Google Cloud Gen AI Academy 2.0 – Full AI/ML Track Completion** (May 2025)  
+  Completed 7 advanced labs including Gemini, Imagen, Vertex AI, Document AI & Multimodal RAG
 - **3rd Place — Internshala Creators Contest (Dec 2024)**
-- **Merged open-source PR — FunASR speech recognition toolkit**
-- **Hackathon participation:** Google Cloud Run, AWS AI Agent, TiDB AgentX, GenAI Exchange & more
+- Merged open-source contribution — FunASR speech recognition toolkit
+- Active hackathon participant: Google Cloud Run, AWS AI Agent, TiDB AgentX, GenAI Exchange & more
+- **Certified:** HackerRank Python (Basic), SQL (Intermediate), Kaggle Intermediate ML & Pandas
 
 ---
 
