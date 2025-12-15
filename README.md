@@ -99,11 +99,11 @@ Vol 6, Issue 10, Oct 2025 | pp. 3459–3464
 ---
 
 ## 🏆 Highlights & Recognition
-  
+- **Google Cloud Gen AI Academy 2.0 – Full AI/ML Track Completion** (2025)
+  Completed the end-to-end AI/ML learning track covering scalable data preparation, ML APIs, Document AI, and production-grade AI workflows on Google Cloud.
 - **McKinsey.org Forward Program – Core Skills Level** (2025)  
+- **Google Cloud Gen AI Exchange Academy – Certificate of Completion** (2025)
   Globally recognized credential in problem-solving, digital skills & professional mindset
-- **Google Cloud Gen AI Academy 2.0 – Full AI/ML Track Completion** (May 2025)  
-  Completed 7 advanced labs including Gemini, Imagen, Vertex AI, Document AI & Multimodal RAG
 - **3rd Place — Internshala Creators Contest (Dec 2024)**
 - Merged open-source contribution — FunASR speech recognition toolkit
 - Active hackathon participant: Google Cloud Run, AWS AI Agent, TiDB AgentX, GenAI Exchange & more
