@@ -60,8 +60,7 @@ Classical ML achieving 94% accuracy on ERP signals.
 ### 1️⃣ **Cross-Subject Motor Imagery Classification Using TSception FilterBank Under Leave-One-Run-Out Evaluation**
 **Status:** Under Review — Conference Submission (Paper ID: 66, Submitted Dec 2025)  
 **Venue:** International Symposium on Data-AI Harmonies for Society | Track: AI for Education, Health & Societal Wellbeing  
-**Role:** Solo Author  
-📄 **PDF:** https://drive.google.com/file/d/1bUuvV41tycN5v2zorc4X1s-YXrXOvPV2/view?usp=sharing  
+**Role:** Solo Author    
 🔬 **Highlights:**  
 - 54-fold LORO cross-subject evaluation (9 subjects × 6 runs)  
 - TSception FilterBank achieves **74.0% ± 11.0%** accuracy  
@@ -73,7 +72,6 @@ Classical ML achieving 94% accuracy on ERP signals.
 **Status:** Under Review — Conference  
 **Venue:** International Symposium on Data-AI Harmonies for Society | Track: AI for Education, Health & Societal Wellbeing  
 **Role:** Solo Author  
-📄 **PDF:** https://drive.google.com/file/d/1QYgiXbM9yWYjf_qbC70-n_4_VTKo2lXq/view?usp=sharing
 
 ---
 
