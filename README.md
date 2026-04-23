@@ -76,12 +76,15 @@ These projects demonstrate system building & deployment ability.
 ## Research Output
 
 **Accepted conference paper**
+
 NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning
 
 **Submitted manuscript**
+
 Cross-Subject Motor Imagery Classification Using TSception FilterBank Under Leave-One-Run-Out Evaluation
 
 **Published review**
+
 Eco-Fusion AI: Multimodal Habitat Monitoring Framework
 
 ---
