@@ -75,7 +75,7 @@ These projects demonstrate system building & deployment ability.
 
 ## Research Output
 
-**Accepted conference paper (camera-ready pending)**
+**Accepted conference paper**
 Cross-Subject Motor Imagery Classification Using TSception FilterBank Under Leave-One-Run-Out Evaluation
 
 **Submitted manuscript**
