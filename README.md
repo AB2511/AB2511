@@ -77,7 +77,13 @@ These projects demonstrate system building & deployment ability.
 
 **Accepted conference paper**
 
-NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning
+**Publication**
+
+A. Barge, “NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning,” 2026 International Conference on Emerging Technologies and Future Innovations (ETFI), IEEE, 2026.
+
+DOI: https://doi.org/10.1109/ETFI68128.2026.11484707
+
+IEEE Xplore: https://ieeexplore.ieee.org/document/11484707
 
 **Submitted manuscript**
 
