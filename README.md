@@ -1,25 +1,34 @@
-# 👋 Anjali Barge
+# 👋 Hi, I'm Anjali Barge
 
-**Computer Engineering Undergraduate — Neural Signal Modeling & AI Systems**
+**Computer Engineering Graduate | AI/ML • Brain-Computer Interfaces • Multimodal AI**
 
-I work on understanding **why non-invasive EEG models fail to generalize across people**.
-My projects explore the boundary between machine learning performance and cognitive variability — building end-to-end systems and then analyzing where they break.
+I'm passionate about building intelligent systems that combine software engineering, machine learning, and scientific research. My work spans Brain-Computer Interfaces (BCI), multimodal AI, environmental intelligence, and full-stack AI applications.
 
-I am interested in moving from *decoding brain signals* toward *modeling what they represent*.
+I enjoy developing end-to-end systems from data collection and preprocessing to model development, deployment, and interactive visualization—while focusing on reproducibility and real-world impact.
+
+📍 Pune, India
 
 🔗 [LinkedIn](https://www.linkedin.com/in/anjali-barge) • ✉ [bargeanjali650@gmail.com](mailto:bargeanjali650@gmail.com) • 🌐 [Portfolio](https://anjali-portfolio-eight.vercel.app/)
 
 ---
 
-## Research Focus
+## Research Interests
 
-Non-invasive BCI systems often perform well within a subject but degrade across users.
 
-Across multiple projects (ERP, motor imagery, cognitive state), I repeatedly observed:
 
-> performance failure is dominated by human variability rather than only model choice
+* Brain-Computer Interfaces (BCI)
 
-My current direction is studying whether this variability reflects differences in cognitive processes rather than noise in measurement.
+* EEG Signal Processing
+
+* Machine Learning & Deep Learning
+
+* Multimodal Artificial Intelligence
+
+* Environmental AI
+
+* Human-Centered AI
+
+* Scientific Machine Learning
 
 ---
 
@@ -105,10 +114,16 @@ Eco-Fusion AI: Multimodal Habitat Monitoring Framework
 
 ---
 
-## Current Direction
+## Current Focus
 
-I aim to study neural signal modeling at the intersection of:
+* Machine Learning
 
-* machine learning
-* cognitive modeling
-* human variability in BCI systems
+* Brain-Computer Interfaces
+
+* Multimodal AI
+
+* AI for Scientific Applications
+
+* Building reproducible AI systems
+---
+> *"Always learning, always building, and always curious about solving real-world problems through AI."*
