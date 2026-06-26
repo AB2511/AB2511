@@ -4,7 +4,7 @@
 
 I'm passionate about building intelligent systems that combine software engineering, machine learning, and scientific research. My work spans Brain-Computer Interfaces (BCI), multimodal AI, environmental intelligence, and full-stack AI applications.
 
-I enjoy developing end-to-end systems from data collection and preprocessing to model development, deployment, and interactive visualization—while focusing on reproducibility and real-world impact.
+I enjoy developing end-to-end systems from data collection and preprocessing to model development, deployment, and interactive visualization while focusing on reproducibility and real-world impact.
 
 📍 Pune, India
 
@@ -14,20 +14,12 @@ I enjoy developing end-to-end systems from data collection and preprocessing to 
 
 ## Research Interests
 
-
-
 * Brain-Computer Interfaces (BCI)
-
 * EEG Signal Processing
-
 * Machine Learning & Deep Learning
-
 * Multimodal Artificial Intelligence
-
 * Environmental AI
-
 * Human-Centered AI
-
 * Scientific Machine Learning
 
 ---
@@ -61,14 +53,20 @@ Result: real-time usability depends more on individual calibration than architec
 Repo: [https://github.com/AB2511/NAI-project](https://github.com/AB2511/NAI-project)
 
 ---
+### 🌿 EcoFusionAI
 
-### EEG Focus Detection (Classical ML)
+A multimodal biodiversity monitoring framework integrating satellite imagery, biodiversity records, and acoustic data.
 
-Feature-based EEG classification reaching high dataset accuracy but unstable deployment behavior.
+**Features**
 
-Result: dataset accuracy ≠ practical reliability
+* MODIS NDVI analysis
+* GBIF species occurrence analysis
+* BirdCLEF acoustic indicators
+* Eco-Stress Index computation
+* Machine learning analysis
+* Streamlit dashboard
 
-Repo: [https://github.com/AB2511/NeuroSync](https://github.com/AB2511/NeuroSync)
+Repo: [https://github.com/AB2511/EcoFusionAI](https://github.com/AB2511/EcoFusionAI)
 
 ---
 
@@ -117,13 +115,9 @@ Eco-Fusion AI: Multimodal Habitat Monitoring Framework
 ## Current Focus
 
 * Machine Learning
-
 * Brain-Computer Interfaces
-
 * Multimodal AI
-
 * AI for Scientific Applications
-
 * Building reproducible AI systems
 ---
 > *"Always learning, always building, and always curious about solving real-world problems through AI."*
