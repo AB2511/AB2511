@@ -1,123 +1,146 @@
 # 👋 Hi, I'm Anjali Barge
 
-**Computer Engineering Graduate | AI/ML • Brain-Computer Interfaces • Multimodal AI**
+### Computer Engineering Graduate | AI/ML • Brain-Computer Interfaces • Multimodal AI
 
-I'm passionate about building intelligent systems that combine software engineering, machine learning, and scientific research. My work spans Brain-Computer Interfaces (BCI), multimodal AI, environmental intelligence, and full-stack AI applications.
+I build intelligent systems that combine **machine learning, software engineering, and scientific research**.
 
-I enjoy developing end-to-end systems from data collection and preprocessing to model development, deployment, and interactive visualization while focusing on reproducibility and real-world impact.
+My recent work has focused on **EEG-based brain-computer interfaces**, including P300 cognitive-state monitoring and cross-subject motor imagery classification. I also enjoy building end-to-end AI applications, from data preprocessing and model development to APIs, interfaces, and deployment.
 
-📍 Pune, India
+I'm particularly interested in understanding not only whether a model works, but **how reliably it works across people, conditions, and real-world settings**.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/anjali-barge) • ✉ [bargeanjali650@gmail.com](mailto:bargeanjali650@gmail.com) • 🌐 [Portfolio](https://anjali-portfolio-eight.vercel.app/)
+📍 Pune, India  
+🎓 Incoming Master's Student in Interdisciplinary Informatics, Shizuoka University, Japan — October 2026
 
----
-
-## Research Interests
-
-* Brain-Computer Interfaces (BCI)
-* EEG Signal Processing
-* Machine Learning & Deep Learning
-* Multimodal Artificial Intelligence
-* Environmental AI
-* Human-Centered AI
-* Scientific Machine Learning
+[Portfolio](https://anjali-portfolio-eight.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/anjali-barge) ·
+[Email](mailto:bargeanjali650@gmail.com)
 
 ---
 
-## Core Projects
+## 🔬 Research Interests
 
-### Cross-Subject Motor Imagery Classification (TSception FilterBank)
+- Brain-Computer Interfaces (BCI)
+- EEG & Neural Signal Processing
+- Machine Learning & Deep Learning
+- Cross-Subject / Subject-Independent Learning
+- Multimodal AI
+- Human-Centered AI
+- AI for Scientific Applications
 
-Evaluated deep learning vs classical methods under strict cross-subject validation (54-fold leave-one-run-out, BCI IV-2a).
+---
 
-* 74.0% ± 11.0 accuracy
-* +8.6% over CSP-LDA baseline (p < 0.00001)
-* 49 / 54 runs > 60%
+## 🧠 Research & Selected Work
 
-Result: deep models improved performance but did not eliminate inter-subject variability.
+### Cross-Subject Motor Imagery Classification — TSception FilterBank
 
-Repo: [https://github.com/AB2511/MI-TSception-FilterBank](https://github.com/AB2511/MI-TSception-FilterBank)
+Investigating subject-independent motor imagery classification using **BCI Competition IV-2a**.
+
+- 74.0% ± 11.0% accuracy
+- +8.6% over CSP-LDA baseline
+- p < 0.00001
+- 54-fold leave-one-run-out evaluation
+- 49 / 54 runs achieved >60% accuracy
+
+**Key finding:** Deep learning improved performance, but did not eliminate inter-subject variability.
+
+[Repository](https://github.com/AB2511/MI-TSception-FilterBank)
 
 ---
 
 ### Real-Time P300 Cognitive State Interface
 
-Built full pipeline: acquisition → preprocessing → inference → live visualization
-(MNE + LSL + EEGNet)
+Built a complete EEG pipeline covering:
 
-* within-subject: ~0.85–0.90
-* cross-subject: ~0.57
+**Acquisition → Preprocessing → Inference → Live Visualization**
 
-Result: real-time usability depends more on individual calibration than architecture choice.
+using MNE, LabStreamingLayer, and EEGNet.
 
-Repo: [https://github.com/AB2511/NAI-project](https://github.com/AB2511/NAI-project)
+- Within-subject AUC: ~0.85–0.90
+- Cross-subject AUC: ~0.57
+- Real-time processing latency: <500 ms
+
+**Key finding:** Real-time usability depends substantially on individual calibration and cross-subject variability.
+
+[Repository](https://github.com/AB2511/NAI-project)
+
+**Publication:**  
+A. Barge, *“NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning,”* ETFI 2026, IEEE.
+
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11484707) ·
+[DOI](https://doi.org/10.1109/ETFI68128.2026.11484707)
 
 ---
+
 ### 🌿 EcoFusionAI
 
-A multimodal biodiversity monitoring framework integrating satellite imagery, biodiversity records, and acoustic data.
+A multimodal biodiversity monitoring framework combining:
 
-**Features**
+- Satellite imagery
+- Biodiversity records
+- Acoustic data
+- Machine learning
+- Environmental indicators
+- Streamlit visualization
 
-* MODIS NDVI analysis
-* GBIF species occurrence analysis
-* BirdCLEF acoustic indicators
-* Eco-Stress Index computation
-* Machine learning analysis
-* Streamlit dashboard
-
-Repo: [https://github.com/AB2511/EcoFusionAI](https://github.com/AB2511/EcoFusionAI)
+[Repository](https://github.com/AB2511/EcoFusionAI)
 
 ---
 
-## Supporting Engineering Work
+## 🛠️ Technical Skills
 
-These projects demonstrate system building & deployment ability.
+**Programming & ML**  
+Python · NumPy · Pandas · scikit-learn · PyTorch · TensorFlow · Keras · XGBoost
 
-* EcoPulse — multimodal environmental impact estimator (Cloud Run deployment)
-* SkimSage — adaptive AI study assistant (LLM-based)
-* Data dashboards & analysis tools (Power BI / Python)
+**BCI & Neural Signals**  
+EEG · P300/ERP · Motor Imagery · MNE-Python · Signal Processing · EEGNet · Neural Classification
 
----
+**Generative AI**  
+Google Gemini · AWS Bedrock · LLM APIs · NLP · RAG · Agentic AI
 
-## Research Output
+**Software Engineering**  
+React · Node.js · Express · FastAPI · REST APIs · MERN · Git · Docker
 
-**Accepted conference paper**
-
-**Publication**
-
-A. Barge, “NeuroAdaptive Interface (NAI): Real-Time EEG-Based Cognitive State Monitoring Using P300 and Deep Learning,” 2026 International Conference on Emerging Technologies and Future Innovations (ETFI), IEEE, 2026.
-
-DOI: https://doi.org/10.1109/ETFI68128.2026.11484707
-
-IEEE Xplore: https://ieeexplore.ieee.org/document/11484707
-
-**Submitted manuscript**
-
-Cross-Subject Motor Imagery Classification Using TSception FilterBank Under Leave-One-Run-Out Evaluation
-
-**Published review**
-
-Eco-Fusion AI: Multimodal Habitat Monitoring Framework
+**Cloud & Data**  
+AWS ECS · S3 · Google Cloud Run · MySQL · MongoDB · Power BI · Excel
 
 ---
 
-## Skills
+## 💻 Other Engineering Work
 
-* **Signal & ML:** MNE, PyTorch, scikit-learn, EEGNet, ERP processing
-* **Programming:** Python, Java, C++, SQL
-* **Systems:** real-time pipelines, data preprocessing, experiment evaluation
-* **Software:** React, Node.js, Streamlit, REST APIs
-* **Tools:** Git, Linux, Google Cloud, AWS (basic)
+Beyond BCI research, I build practical AI and software systems involving:
+
+- AI-powered applications
+- Risk and fraud detection
+- Voice-based AI
+- Multimodal environmental intelligence
+- Data analysis and visualization
+- Model deployment and monitoring
+
+Selected repositories are available below.
 
 ---
 
-## Current Focus
+## 🎓 What's Next
 
-* Machine Learning
-* Brain-Computer Interfaces
-* Multimodal AI
-* AI for Scientific Applications
-* Building reproducible AI systems
+Starting October 2026, I'll be joining **Shizuoka University, Japan** for a Master's in **Interdisciplinary Informatics**.
+
+I'm looking forward to exploring the intersection of:
+
+**AI × Brain & Cognitive Science × Human-Centered Computing**
+
+while continuing to build and evaluate practical machine learning systems.
+
 ---
-> *"Always learning, always building, and always curious about solving real-world problems through AI."*
+
+## 📌 Currently Focused On
+
+- Machine Learning
+- Brain-Computer Interfaces
+- EEG research
+- Reliable and reproducible ML
+- Multimodal AI
+- Scientific applications of AI
+
+---
+
+> Always learning, always building, and always curious about how intelligent systems behave in the real world.
