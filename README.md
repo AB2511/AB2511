@@ -1,15 +1,21 @@
 # 👋 Hi, I'm Anjali Barge
 
-### Computer Engineering Graduate | AI/ML • Brain-Computer Interfaces • Multimodal AI
+### Master's Student in Interdisciplinary Informatics | AI/ML • EEG • BCI • Human-Centered AI
 
-I build intelligent systems that combine **machine learning, software engineering, and scientific research**.
+I build intelligent systems at the intersection of **machine learning, software engineering, neural data, and scientific research**.
 
-My recent work has focused on **EEG-based brain-computer interfaces**, including P300 cognitive-state monitoring and cross-subject motor imagery classification. I also enjoy building end-to-end AI applications, from data preprocessing and model development to APIs, interfaces, and deployment.
+I recently completed my Bachelor's in Computer Engineering and am now pursuing a **Master's in Interdisciplinary Informatics at Shizuoka University, Japan**.
 
-I'm particularly interested in understanding not only whether a model works, but **how reliably it works across people, conditions, and real-world settings**.
+During my undergraduate studies, I worked on **EEG-based Brain-Computer Interfaces (BCI)**, including P300-based cognitive-state monitoring and cross-subject motor imagery classification. These projects led me to become particularly interested in **individual differences in neural signals and how reliably machine learning models generalize across people and conditions**.
+
+Alongside BCI research, I have developed practical AI and software systems involving **data analysis, machine learning pipelines, backend development, APIs, dashboards, multimodal AI, and model deployment**.
+
+I'm currently exploring how **computational methods and neural data can help us understand human perception, cognition, and behavior**, while continuing to strengthen my skills in AI, machine learning, and scientific computing.
 
 📍 Hamamatsu, Japan  
-🎓 Master's Student in Interdisciplinary Informatics, Shizuoka University, Japan (Oct 2026- Sep 2028)
+🎓 Master's Student in Interdisciplinary Informatics, Shizuoka University, Japan  
+📅 October 2026 – September 2028
+
 
 [Portfolio](https://anjali-portfolio-eight.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/anjali-barge) ·
@@ -120,26 +126,32 @@ Selected repositories are available below.
 
 ---
 
-## 🎓 What's Next
+## 🎓 Current Focus
 
-Starting October 2026, I'll be joining **Shizuoka University, Japan** for a Master's in **Interdisciplinary Informatics**.
-
-I'm looking forward to exploring the intersection of:
+I am currently pursuing my Master's at **Shizuoka University, Japan**, exploring the intersection of:
 
 **AI × Brain & Cognitive Science × Human-Centered Computing**
 
-while continuing to build and evaluate practical machine learning systems.
+My current areas of interest include:
+
+- EEG and neural signal analysis
+- Human perception and cognition
+- Individual differences in neural signals
+- Machine learning for brain and behavioral data
+- Reliable and reproducible ML
+- Human-centered intelligent systems
+- Multimodal AI
 
 ---
 
-## 📌 Currently Focused On
+## 📌 What I'm Learning
 
-- Machine Learning
-- Brain-Computer Interfaces
-- EEG research
-- Reliable and reproducible ML
-- Multimodal AI
-- Scientific applications of AI
+- Scientific Python and data analysis
+- EEG analysis and experimental methods
+- Cognitive science and psychophysics
+- Machine learning for neural data
+- MATLAB and experimental research tools
+- Japanese for academic and daily life
 
 ---
 
