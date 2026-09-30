@@ -8,8 +8,8 @@ My recent work has focused on **EEG-based brain-computer interfaces**, including
 
 I'm particularly interested in understanding not only whether a model works, but **how reliably it works across people, conditions, and real-world settings**.
 
-📍 Pune, India  
-🎓 Incoming Master's Student in Interdisciplinary Informatics, Shizuoka University, Japan — October 2026
+📍 Hamamatsu, Japan  
+🎓 Master's Student in Interdisciplinary Informatics, Shizuoka University, Japan (Oct 2026- Sep 2028)
 
 [Portfolio](https://anjali-portfolio-eight.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/anjali-barge) ·
